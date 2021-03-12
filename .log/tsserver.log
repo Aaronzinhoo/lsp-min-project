@@ -1,0 +1,1325 @@
+Info 0    [23:22:34.701] Starting TS Server
+Info 1    [23:22:34.701] Version: 4.1.5
+Info 2    [23:22:34.701] Arguments: /home/aaron-gonzales/.config/nvm/versions/node/v14.15.4/bin/node /home/aaron-gonzales/development/personal/angular/minimal-proj/node_modules/.bin/tsserver --logFile /home/aaron-gonzales/development/personal/angular/minimal-proj/.log/tsserver.log --logVerbosity info --cancellationPipeName /tmp/bfbe4d924587be994a623e9fca6831a9/tscancellation*
+Info 3    [23:22:34.701] Platform: linux NodeVersion: 14 CaseSensitive: true
+Info 4    [23:22:34.701] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
+Info 5    [23:22:35.332] Search path: /home/aaron-gonzales/development/personal/angular/minimal-proj/src/app
+Info 6    [23:22:35.333] For info: /home/aaron-gonzales/development/personal/angular/minimal-proj/src/app/app.component.ts :: Config file name: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 7    [23:22:35.333] Opened configuration file /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 8    [23:22:35.354] Config: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json : {
+ "rootNames": [
+  "/home/aaron-gonzales/development/personal/angular/minimal-proj/e2e/src/app.e2e-spec.ts",
+  "/home/aaron-gonzales/development/personal/angular/minimal-proj/e2e/src/app.po.ts",
+  "/home/aaron-gonzales/development/personal/angular/minimal-proj/src/main.ts",
+  "/home/aaron-gonzales/development/personal/angular/minimal-proj/src/polyfills.ts",
+  "/home/aaron-gonzales/development/personal/angular/minimal-proj/src/test.ts",
+  "/home/aaron-gonzales/development/personal/angular/minimal-proj/src/app/app.component.spec.ts",
+  "/home/aaron-gonzales/development/personal/angular/minimal-proj/src/app/app.component.ts",
+  "/home/aaron-gonzales/development/personal/angular/minimal-proj/src/app/app.module.ts",
+  "/home/aaron-gonzales/development/personal/angular/minimal-proj/src/app/flycheck_app.component.ts",
+  "/home/aaron-gonzales/development/personal/angular/minimal-proj/src/environments/environment.prod.ts",
+  "/home/aaron-gonzales/development/personal/angular/minimal-proj/src/environments/environment.ts"
+ ],
+ "options": {
+  "baseUrl": "/home/aaron-gonzales/development/personal/angular/minimal-proj",
+  "outDir": "/home/aaron-gonzales/development/personal/angular/minimal-proj/dist/out-tsc",
+  "sourceMap": true,
+  "declaration": false,
+  "downlevelIteration": true,
+  "experimentalDecorators": true,
+  "moduleResolution": 2,
+  "importHelpers": true,
+  "target": 2,
+  "module": 6,
+  "lib": [
+   "lib.es2018.d.ts",
+   "lib.dom.d.ts"
+  ],
+  "configFilePath": "/home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json"
+ }
+}
+Info 9    [23:22:35.971] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 10   [23:22:37.966] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 1 structureChanged: true Elapsed: 1994.3317000120878ms
+Info 11   [23:22:37.966] Project '/home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json' (Configured)
+Info 12   [23:22:37.966] 	Files (305)
+
+Info 13   [23:22:37.966] -----------------------------------------------
+Info 14   [23:22:37.980] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
+Info 15   [23:22:38.261] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* Version: 1 structureChanged: true Elapsed: 281.2098999917507ms
+Info 16   [23:22:38.262] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 17   [23:22:38.262] 	Files (71)
+
+Info 18   [23:22:38.262] -----------------------------------------------
+Info 19   [23:22:38.268] Before ensureProjectForOpenFiles:
+Info 20   [23:22:38.268] After ensureProjectForOpenFiles:
+Info 21   [23:22:38.268] got projects updated in background, updating diagnostics for /home/aaron-gonzales/development/personal/angular/minimal-proj/src/app/app.component.ts
+Info 22   [23:24:33.673] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 23   [23:24:33.689] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 2 structureChanged: false Elapsed: 16.600900009274483ms
+Info 24   [23:24:33.690] Different program with same set of files:: structureIsReused:: 2
+Info 25   [23:24:33.917] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 26   [23:24:33.933] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 3 structureChanged: false Elapsed: 16.055099993944168ms
+Info 27   [23:24:33.933] Different program with same set of files:: structureIsReused:: 2
+Info 28   [23:24:33.934] getCompletionData: Get current token: 0.01170000433921814
+Info 29   [23:24:33.934] getCompletionData: Is inside comment: 0.04979999363422394
+Info 30   [23:24:33.934] getCompletionData: Get previous token 1: 0.028200000524520874
+Info 31   [23:24:33.934] getCompletionData: Get previous token 2: 0.05210000276565552
+Info 32   [23:24:33.935] getCompletionsAtPosition: isCompletionListBlocker: 0.20520000159740448
+Info 33   [23:24:33.935] getCompletionData: Semantic work: 0.7280000001192093
+Info 34   [23:24:33.936] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.003299996256828308
+Info 35   [23:24:34.390] getCompletionData: Get current token: 0.02199999988079071
+Info 36   [23:24:34.390] getCompletionData: Is inside comment: 0.13050000369548798
+Info 37   [23:24:34.390] getCompletionData: Get previous token 1: 0.08329999446868896
+Info 38   [23:24:34.391] getCompletionData: Get previous token 2: 0.12269999086856842
+Info 39   [23:24:34.391] getCompletionsAtPosition: isCompletionListBlocker: 0.014200001955032349
+Info 40   [23:24:34.391] getCompletionData: Semantic work: 0.04490000009536743
+Info 41   [23:24:34.806] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 42   [23:24:34.819] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 4 structureChanged: false Elapsed: 13.239199995994568ms
+Info 43   [23:24:34.819] Different program with same set of files:: structureIsReused:: 2
+Info 44   [23:24:35.306] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 45   [23:24:35.317] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 5 structureChanged: false Elapsed: 10.397300004959106ms
+Info 46   [23:24:35.317] Different program with same set of files:: structureIsReused:: 2
+Info 47   [23:24:35.317] getCompletionData: Get current token: 0.024700000882148743
+Info 48   [23:24:35.317] getCompletionData: Is inside comment: 0.03869999945163727
+Info 49   [23:24:35.317] getCompletionData: Get previous token 1: 0.02879999577999115
+Info 50   [23:24:35.318] getCompletionData: Get previous token 2: 0.04349999129772186
+Info 51   [23:24:35.318] getCompletionsAtPosition: isCompletionListBlocker: 0.011500000953674316
+Info 52   [23:24:35.318] getCompletionData: Semantic work: 0.032600000500679016
+Info 53   [23:24:37.338] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 54   [23:24:37.349] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 6 structureChanged: false Elapsed: 11.063299998641014ms
+Info 55   [23:24:37.349] Different program with same set of files:: structureIsReused:: 2
+Info 56   [23:24:37.961] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 57   [23:24:37.974] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 7 structureChanged: false Elapsed: 13.050399988889694ms
+Info 58   [23:24:37.974] Different program with same set of files:: structureIsReused:: 2
+Info 59   [23:24:37.975] getCompletionData: Get current token: 0.007899999618530273
+Info 60   [23:24:37.975] getCompletionData: Is inside comment: 0.04479999840259552
+Info 61   [23:24:37.975] getCompletionData: Get previous token 1: 0.02359999716281891
+Info 62   [23:24:37.975] getCompletionData: Get previous token 2: 0.03630000352859497
+Info 63   [23:24:37.975] getCompletionsAtPosition: isCompletionListBlocker: 0.34039999544620514
+Info 64   [23:24:37.975] getCompletionData: Semantic work: 0.036799997091293335
+Info 65   [23:24:37.975] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.002400010824203491
+Info 66   [23:24:37.990] getCompletionData: Get current token: 0.012699991464614868
+Info 67   [23:24:37.991] getCompletionData: Is inside comment: 0.06589999794960022
+Info 68   [23:24:37.991] getCompletionData: Get previous token 1: 0.01600000262260437
+Info 69   [23:24:37.991] getCompletionData: Get previous token 2: 0.09940001368522644
+Info 70   [23:24:37.991] getCompletionsAtPosition: isCompletionListBlocker: 0.013799995183944702
+Info 71   [23:24:37.991] getCompletionData: Semantic work: 0.07039999961853027
+Info 72   [23:24:39.394] getCompletionData: Get current token: 0.013099998235702515
+Info 73   [23:24:39.394] getCompletionData: Is inside comment: 0.03909999132156372
+Info 74   [23:24:39.394] getCompletionData: Get previous token 1: 0.020099997520446777
+Info 75   [23:24:39.394] getCompletionData: Get previous token 2: 0.025499999523162842
+Info 76   [23:24:39.394] getCompletionsAtPosition: isCompletionListBlocker: 0.015999987721443176
+Info 77   [23:24:39.394] getCompletionData: Semantic work: 0.04200001060962677
+Info 78   [23:24:39.739] getCompletionData: Get current token: 0.012000009417533875
+Info 79   [23:24:39.739] getCompletionData: Is inside comment: 0.033599987626075745
+Info 80   [23:24:39.739] getCompletionData: Get previous token 1: 0.0203000009059906
+Info 81   [23:24:39.740] getCompletionData: Get previous token 2: 0.04599998891353607
+Info 82   [23:24:39.740] getCompletionsAtPosition: isCompletionListBlocker: 0.012400001287460327
+Info 83   [23:24:39.740] getCompletionData: Semantic work: 0.03880000114440918
+Info 84   [23:24:40.343] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 85   [23:24:40.353] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 8 structureChanged: false Elapsed: 9.087599992752075ms
+Info 86   [23:24:40.353] Different program with same set of files:: structureIsReused:: 2
+Info 87   [23:24:41.686] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 88   [23:24:41.700] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 9 structureChanged: false Elapsed: 13.623199999332428ms
+Info 89   [23:24:41.700] Different program with same set of files:: structureIsReused:: 2
+Info 90   [23:24:41.700] getCompletionData: Get current token: 0.008200004696846008
+Info 91   [23:24:41.700] getCompletionData: Is inside comment: 0.029899999499320984
+Info 92   [23:24:41.700] getCompletionData: Get previous token 1: 0.020500004291534424
+Info 93   [23:24:41.701] getCompletionData: Get previous token 2: 0.04620000720024109
+Info 94   [23:24:41.701] getCompletionsAtPosition: isCompletionListBlocker: 0.011600002646446228
+Info 95   [23:24:41.701] getCompletionData: Semantic work: 0.03790000081062317
+Info 96   [23:24:41.701] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.0018000006675720215
+Info 97   [23:24:41.719] getCompletionData: Get current token: 0.012499988079071045
+Info 98   [23:24:41.719] getCompletionData: Is inside comment: 0.034800007939338684
+Info 99   [23:24:41.719] getCompletionData: Get previous token 1: 0.019900009036064148
+Info 100  [23:24:41.720] getCompletionData: Get previous token 2: 0.025300011038780212
+Info 101  [23:24:41.720] getCompletionsAtPosition: isCompletionListBlocker: 0.012099996209144592
+Info 102  [23:24:41.720] getCompletionData: Semantic work: 0.06589999794960022
+Info 103  [23:24:41.875] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 104  [23:24:41.884] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 10 structureChanged: false Elapsed: 9.05009999871254ms
+Info 105  [23:24:41.884] Different program with same set of files:: structureIsReused:: 2
+Info 106  [23:24:41.884] getCompletionData: Get current token: 0.01340000331401825
+Info 107  [23:24:41.884] getCompletionData: Is inside comment: 0.011299997568130493
+Info 108  [23:24:41.884] getCompletionData: Get previous token 1: 0.027599990367889404
+Info 109  [23:24:41.884] getCompletionData: Get previous token 2: 0.04100000858306885
+Info 110  [23:24:41.884] getCompletionsAtPosition: isCompletionListBlocker: 0.01109999418258667
+Info 111  [23:24:41.884] getCompletionData: Semantic work: 0.034199997782707214
+Info 112  [23:24:42.129] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 113  [23:24:42.139] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 11 structureChanged: false Elapsed: 9.42799998819828ms
+Info 114  [23:24:42.139] Different program with same set of files:: structureIsReused:: 2
+Info 115  [23:24:42.883] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 116  [23:24:42.891] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 12 structureChanged: false Elapsed: 7.374900013208389ms
+Info 117  [23:24:42.891] Different program with same set of files:: structureIsReused:: 2
+Info 118  [23:24:42.896] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 119  [23:24:42.905] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 13 structureChanged: false Elapsed: 9.700099989771843ms
+Info 120  [23:24:42.906] Different program with same set of files:: structureIsReused:: 2
+Info 121  [23:24:43.319] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 122  [23:24:43.326] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 14 structureChanged: false Elapsed: 6.767499998211861ms
+Info 123  [23:24:43.326] Different program with same set of files:: structureIsReused:: 2
+Info 124  [23:24:47.478] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 125  [23:24:47.487] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 15 structureChanged: false Elapsed: 8.655900001525879ms
+Info 126  [23:24:47.487] Different program with same set of files:: structureIsReused:: 2
+Info 127  [23:24:47.487] getCompletionData: Get current token: 0.008000001311302185
+Info 128  [23:24:47.487] getCompletionData: Is inside comment: 0.029499992728233337
+Info 129  [23:24:47.487] getCompletionData: Get previous token 1: 0.02059999108314514
+Info 130  [23:24:47.487] getCompletionData: Get previous token 2: 0.0414000004529953
+Info 131  [23:24:47.487] getCompletionsAtPosition: isCompletionListBlocker: 0.014400005340576172
+Info 132  [23:24:47.487] getCompletionData: Semantic work: 0.04079999029636383
+Info 133  [23:24:47.487] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.002499997615814209
+Info 134  [23:24:49.857] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 135  [23:24:49.866] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 16 structureChanged: false Elapsed: 9.224399998784065ms
+Info 136  [23:24:49.866] Different program with same set of files:: structureIsReused:: 2
+Info 137  [23:24:50.125] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 138  [23:24:50.132] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 17 structureChanged: false Elapsed: 6.855800002813339ms
+Info 139  [23:24:50.132] Different program with same set of files:: structureIsReused:: 2
+Info 140  [23:24:51.565] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 141  [23:24:51.575] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 18 structureChanged: false Elapsed: 9.310100004076958ms
+Info 142  [23:24:51.575] Different program with same set of files:: structureIsReused:: 2
+Info 143  [23:24:52.149] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 144  [23:24:52.155] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 19 structureChanged: false Elapsed: 6.171900004148483ms
+Info 145  [23:24:52.155] Different program with same set of files:: structureIsReused:: 2
+Info 146  [23:24:52.411] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 147  [23:24:52.419] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 20 structureChanged: false Elapsed: 7.642800003290176ms
+Info 148  [23:24:52.419] Different program with same set of files:: structureIsReused:: 2
+Info 149  [23:24:53.807] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 150  [23:24:53.817] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 21 structureChanged: false Elapsed: 10.152199998497963ms
+Info 151  [23:24:53.817] Different program with same set of files:: structureIsReused:: 2
+Info 152  [23:24:54.340] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 153  [23:24:54.346] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 22 structureChanged: false Elapsed: 6.678099989891052ms
+Info 154  [23:24:54.346] Different program with same set of files:: structureIsReused:: 2
+Info 155  [23:24:54.347] getCompletionData: Get current token: 0.007500007748603821
+Info 156  [23:24:54.347] getCompletionData: Is inside comment: 0.0037999898195266724
+Info 157  [23:24:54.347] getCompletionData: Get previous token 1: 0.025999993085861206
+Info 158  [23:24:54.347] getCompletionsAtPosition: isCompletionListBlocker: 0.04819999635219574
+Info 159  [23:24:54.347] Returning an empty list because completion was requested in an invalid position.
+Info 160  [23:24:56.806] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 161  [23:24:56.814] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 23 structureChanged: false Elapsed: 7.848299995064735ms
+Info 162  [23:24:56.814] Different program with same set of files:: structureIsReused:: 2
+Info 163  [23:24:59.413] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 164  [23:24:59.422] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 24 structureChanged: false Elapsed: 8.353800013661385ms
+Info 165  [23:24:59.422] Different program with same set of files:: structureIsReused:: 2
+Info 166  [23:24:59.422] getCompletionData: Get current token: 0.006700009107589722
+Info 167  [23:24:59.422] getCompletionData: Is inside comment: 0.03149999678134918
+Info 168  [23:24:59.422] getCompletionData: Get previous token 1: 0.018200010061264038
+Info 169  [23:24:59.422] getCompletionData: Get previous token 2: 0.03899998962879181
+Info 170  [23:24:59.422] getCompletionsAtPosition: isCompletionListBlocker: 0.013600006699562073
+Info 171  [23:24:59.423] getCompletionData: Semantic work: 0.0333000123500824
+Info 172  [23:24:59.423] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.006200000643730164
+Info 173  [23:24:59.437] getCompletionData: Get current token: 0.009900003671646118
+Info 174  [23:24:59.437] getCompletionData: Is inside comment: 0.03470000624656677
+Info 175  [23:24:59.437] getCompletionData: Get previous token 1: 0.01759999990463257
+Info 176  [23:24:59.437] getCompletionData: Get previous token 2: 0.022599995136260986
+Info 177  [23:24:59.437] getCompletionsAtPosition: isCompletionListBlocker: 0.012900009751319885
+Info 178  [23:24:59.437] getCompletionData: Semantic work: 0.03949999809265137
+Info 179  [23:24:59.678] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 180  [23:24:59.691] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 25 structureChanged: false Elapsed: 12.629299998283386ms
+Info 181  [23:24:59.691] Different program with same set of files:: structureIsReused:: 2
+Info 182  [23:24:59.692] getCompletionData: Get current token: 0.01400001347064972
+Info 183  [23:24:59.692] getCompletionData: Is inside comment: 0.013999998569488525
+Info 184  [23:24:59.692] getCompletionData: Get previous token 1: 0.06520000100135803
+Info 185  [23:24:59.692] getCompletionData: Get previous token 2: 0.06159999966621399
+Info 186  [23:24:59.692] getCompletionsAtPosition: isCompletionListBlocker: 0.014500007033348083
+Info 187  [23:24:59.692] getCompletionData: Semantic work: 0.05229999125003815
+Info 188  [23:25:00.302] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 189  [23:25:00.308] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 26 structureChanged: false Elapsed: 5.6101000010967255ms
+Info 190  [23:25:00.308] Different program with same set of files:: structureIsReused:: 2
+Info 191  [23:25:00.308] getCompletionData: Get current token: 0.01019999384880066
+Info 192  [23:25:00.308] getCompletionData: Is inside comment: 0.031000003218650818
+Info 193  [23:25:00.308] getCompletionData: Get previous token 1: 0.017199993133544922
+Info 194  [23:25:00.308] getCompletionData: Get previous token 2: 0.11079999804496765
+Info 195  [23:25:00.308] getCompletionsAtPosition: isCompletionListBlocker: 0.027300000190734863
+Info 196  [23:25:00.309] getCompletionData: Semantic work: 0.03049999475479126
+Info 197  [23:25:00.565] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 198  [23:25:00.572] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 27 structureChanged: false Elapsed: 6.685499995946884ms
+Info 199  [23:25:00.572] Different program with same set of files:: structureIsReused:: 2
+Info 200  [23:25:01.385] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 201  [23:25:01.393] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 28 structureChanged: false Elapsed: 7.635600000619888ms
+Info 202  [23:25:01.393] Different program with same set of files:: structureIsReused:: 2
+Info 203  [23:25:01.393] getCompletionData: Get current token: 0.006399989128112793
+Info 204  [23:25:01.393] getCompletionData: Is inside comment: 0.026500001549720764
+Info 205  [23:25:01.393] getCompletionData: Get previous token 1: 0.01759999990463257
+Info 206  [23:25:01.393] getCompletionData: Get previous token 2: 0.0364999920129776
+Info 207  [23:25:01.394] getCompletionsAtPosition: isCompletionListBlocker: 0.014200001955032349
+Info 208  [23:25:01.394] getCompletionData: Semantic work: 0.07459999620914459
+Info 209  [23:25:01.394] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.002800002694129944
+Info 210  [23:25:01.412] getCompletionData: Get current token: 0.010499998927116394
+Info 211  [23:25:01.412] getCompletionData: Is inside comment: 0.03149999678134918
+Info 212  [23:25:01.413] getCompletionData: Get previous token 1: 0.017399996519088745
+Info 213  [23:25:01.413] getCompletionData: Get previous token 2: 0.02260001003742218
+Info 214  [23:25:01.413] getCompletionsAtPosition: isCompletionListBlocker: 0.012500002980232239
+Info 215  [23:25:01.413] getCompletionData: Semantic work: 0.037699997425079346
+Info 216  [23:25:01.697] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 217  [23:25:01.704] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 29 structureChanged: false Elapsed: 6.847200006246567ms
+Info 218  [23:25:01.704] Different program with same set of files:: structureIsReused:: 2
+Info 219  [23:25:01.704] getCompletionData: Get current token: 0.014200001955032349
+Info 220  [23:25:01.704] getCompletionData: Is inside comment: 0.008199989795684814
+Info 221  [23:25:01.704] getCompletionData: Get previous token 1: 0.023299992084503174
+Info 222  [23:25:01.704] getCompletionData: Get previous token 2: 0.033200010657310486
+Info 223  [23:25:01.704] getCompletionsAtPosition: isCompletionListBlocker: 0.011500000953674316
+Info 224  [23:25:01.705] getCompletionData: Semantic work: 0.031599998474121094
+Info 225  [23:25:03.360] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 226  [23:25:03.367] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 30 structureChanged: false Elapsed: 6.205499991774559ms
+Info 227  [23:25:03.367] Different program with same set of files:: structureIsReused:: 2
+Info 228  [23:25:03.768] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 229  [23:25:03.774] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 31 structureChanged: false Elapsed: 6.539499998092651ms
+Info 230  [23:25:03.774] Different program with same set of files:: structureIsReused:: 2
+Info 231  [23:25:04.266] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 232  [23:25:04.276] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 32 structureChanged: false Elapsed: 9.395099997520447ms
+Info 233  [23:25:04.276] Different program with same set of files:: structureIsReused:: 2
+Info 234  [23:25:04.762] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 235  [23:25:04.770] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 33 structureChanged: false Elapsed: 8.294100001454353ms
+Info 236  [23:25:04.771] Different program with same set of files:: structureIsReused:: 2
+Info 237  [23:25:05.162] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 238  [23:25:05.168] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 34 structureChanged: false Elapsed: 5.7856999933719635ms
+Info 239  [23:25:05.168] Different program with same set of files:: structureIsReused:: 2
+Info 240  [23:25:05.610] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 241  [23:25:05.619] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 35 structureChanged: false Elapsed: 8.447399988770485ms
+Info 242  [23:25:05.619] Different program with same set of files:: structureIsReused:: 2
+Info 243  [23:25:05.952] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 244  [23:25:05.959] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 36 structureChanged: false Elapsed: 6.563400000333786ms
+Info 245  [23:25:05.959] Different program with same set of files:: structureIsReused:: 2
+Info 246  [23:25:06.364] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 247  [23:25:06.370] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 37 structureChanged: false Elapsed: 6.060199990868568ms
+Info 248  [23:25:06.370] Different program with same set of files:: structureIsReused:: 2
+Info 249  [23:25:06.686] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 250  [23:25:06.694] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 38 structureChanged: false Elapsed: 7.653999999165535ms
+Info 251  [23:25:06.694] Different program with same set of files:: structureIsReused:: 2
+Info 252  [23:25:06.921] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 253  [23:25:06.927] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 39 structureChanged: false Elapsed: 5.934799998998642ms
+Info 254  [23:25:06.927] Different program with same set of files:: structureIsReused:: 2
+Info 255  [23:25:07.499] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 256  [23:25:07.505] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 40 structureChanged: false Elapsed: 6.224500000476837ms
+Info 257  [23:25:07.505] Different program with same set of files:: structureIsReused:: 2
+Info 258  [23:25:08.115] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 259  [23:25:08.122] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 41 structureChanged: false Elapsed: 6.110799998044968ms
+Info 260  [23:25:08.122] Different program with same set of files:: structureIsReused:: 2
+Info 261  [23:25:16.355] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 262  [23:25:16.362] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 42 structureChanged: false Elapsed: 6.924499988555908ms
+Info 263  [23:25:16.362] Different program with same set of files:: structureIsReused:: 2
+Info 264  [23:25:18.276] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 265  [23:25:18.283] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 43 structureChanged: false Elapsed: 7.416400000452995ms
+Info 266  [23:25:18.283] Different program with same set of files:: structureIsReused:: 2
+Info 267  [23:25:18.283] getCompletionData: Get current token: 0.010800004005432129
+Info 268  [23:25:18.283] getCompletionData: Is inside comment: 0.03129999339580536
+Info 269  [23:25:18.283] getCompletionData: Get previous token 1: 0.014799997210502625
+Info 270  [23:25:18.283] getCompletionData: Get previous token 2: 0.03110000491142273
+Info 271  [23:25:18.284] getCompletionsAtPosition: isCompletionListBlocker: 0.010399997234344482
+Info 272  [23:25:18.284] getCompletionData: Semantic work: 0.033299997448921204
+Info 273  [23:25:18.836] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 274  [23:25:18.843] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 44 structureChanged: false Elapsed: 6.443499997258186ms
+Info 275  [23:25:18.843] Different program with same set of files:: structureIsReused:: 2
+Info 276  [23:25:18.843] getCompletionData: Get current token: 0.010700002312660217
+Info 277  [23:25:18.843] getCompletionData: Is inside comment: 0.006599992513656616
+Info 278  [23:25:18.843] getCompletionData: Get previous token 1: 0.031000003218650818
+Info 279  [23:25:18.843] getCompletionData: Get previous token 2: 0.027600005269050598
+Info 280  [23:25:18.843] getCompletionsAtPosition: isCompletionListBlocker: 0.01019999384880066
+Info 281  [23:25:18.843] getCompletionData: Semantic work: 0.031000003218650818
+Info 282  [23:25:19.561] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 283  [23:25:19.571] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 45 structureChanged: false Elapsed: 10.239000007510185ms
+Info 284  [23:25:19.571] Different program with same set of files:: structureIsReused:: 2
+Info 285  [23:25:19.576] getCompletionData: Get current token: 0.005700007081031799
+Info 286  [23:25:19.576] getCompletionData: Is inside comment: 0.017000004649162292
+Info 287  [23:25:19.576] getCompletionData: Get previous token 1: 0.010899990797042847
+Info 288  [23:25:19.576] getCompletionData: Get previous token 2: 0.025700002908706665
+Info 289  [23:25:19.576] getCompletionsAtPosition: isCompletionListBlocker: 0.010700002312660217
+Info 290  [23:25:19.581] getSymbolsFromOtherSourceFileExports: Recomputing list
+Info 291  [23:25:19.639] forEachExternalModuleToImportFrom: filtered out 26 modules by package.json contents
+Info 292  [23:25:19.651] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 293  [23:25:19.651] forEachExternalModuleToImportFrom autoImportProvider: 11.749099999666214
+Info 294  [23:25:19.652] getSymbolsFromOtherSourceFileExports: 71.31550000607967
+Info 295  [23:25:19.660] getCompletionData: Semantic work: 83.46240000426769
+Info 296  [23:25:19.726] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 66.03159999847412
+Info 297  [23:25:20.661] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 298  [23:25:20.673] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 46 structureChanged: false Elapsed: 12.182799994945526ms
+Info 299  [23:25:20.673] Different program with same set of files:: structureIsReused:: 2
+Info 300  [23:25:27.564] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 301  [23:25:27.576] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 47 structureChanged: false Elapsed: 11.81810000538826ms
+Info 302  [23:25:27.576] Different program with same set of files:: structureIsReused:: 2
+Info 303  [23:25:29.259] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 304  [23:25:29.270] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 48 structureChanged: false Elapsed: 10.21850000321865ms
+Info 305  [23:25:29.270] Different program with same set of files:: structureIsReused:: 2
+Info 306  [23:25:29.953] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 307  [23:25:29.962] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 49 structureChanged: false Elapsed: 8.935599997639656ms
+Info 308  [23:25:29.962] Different program with same set of files:: structureIsReused:: 2
+Info 309  [23:25:30.231] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 310  [23:25:30.248] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 50 structureChanged: false Elapsed: 16.979499995708466ms
+Info 311  [23:25:30.248] Different program with same set of files:: structureIsReused:: 2
+Info 312  [23:25:30.465] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 313  [23:25:30.476] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 51 structureChanged: false Elapsed: 11.28939999639988ms
+Info 314  [23:25:30.476] Different program with same set of files:: structureIsReused:: 2
+Info 315  [23:25:31.299] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 316  [23:25:31.313] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 52 structureChanged: false Elapsed: 13.5016999989748ms
+Info 317  [23:25:31.313] Different program with same set of files:: structureIsReused:: 2
+Info 318  [23:25:31.706] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 319  [23:25:31.717] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 53 structureChanged: false Elapsed: 10.874099999666214ms
+Info 320  [23:25:31.717] Different program with same set of files:: structureIsReused:: 2
+Info 321  [23:25:31.874] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 322  [23:25:31.884] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 54 structureChanged: false Elapsed: 8.851999998092651ms
+Info 323  [23:25:31.884] Different program with same set of files:: structureIsReused:: 2
+Info 324  [23:25:31.884] getCompletionData: Get current token: 0.00509999692440033
+Info 325  [23:25:31.884] getCompletionData: Is inside comment: 0.020899996161460876
+Info 326  [23:25:31.884] getCompletionData: Get previous token 1: 0.013199999928474426
+Info 327  [23:25:31.884] getCompletionsAtPosition: isCompletionListBlocker: 0.005800008773803711
+Info 328  [23:25:32.550] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 329  [23:25:32.559] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 55 structureChanged: false Elapsed: 9.016199991106987ms
+Info 330  [23:25:32.559] Different program with same set of files:: structureIsReused:: 2
+Info 331  [23:25:33.003] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 332  [23:25:33.014] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 56 structureChanged: false Elapsed: 10.968199998140335ms
+Info 333  [23:25:33.014] Different program with same set of files:: structureIsReused:: 2
+Info 334  [23:25:33.805] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 335  [23:25:33.813] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 57 structureChanged: false Elapsed: 7.2731000036001205ms
+Info 336  [23:25:33.813] Different program with same set of files:: structureIsReused:: 2
+Info 337  [23:25:33.817] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 338  [23:25:33.826] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 58 structureChanged: false Elapsed: 9.177200004458427ms
+Info 339  [23:25:33.826] Different program with same set of files:: structureIsReused:: 2
+Info 340  [23:25:34.355] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 341  [23:25:34.361] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 59 structureChanged: false Elapsed: 6.2079000025987625ms
+Info 342  [23:25:34.361] Different program with same set of files:: structureIsReused:: 2
+Info 343  [23:25:35.278] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 344  [23:25:35.284] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 60 structureChanged: false Elapsed: 6.689500004053116ms
+Info 345  [23:25:35.284] Different program with same set of files:: structureIsReused:: 2
+Info 346  [23:25:35.285] getCompletionData: Get current token: 0.005500003695487976
+Info 347  [23:25:35.285] getCompletionData: Is inside comment: 0.01629999279975891
+Info 348  [23:25:35.285] getCompletionData: Get previous token 1: 0.019600003957748413
+Info 349  [23:25:35.285] getCompletionData: Get previous token 2: 0.02969999611377716
+Info 350  [23:25:35.285] getCompletionsAtPosition: isCompletionListBlocker: 0.03620000183582306
+Info 351  [23:25:35.285] getCompletionData: Semantic work: 0.10099999606609344
+Info 352  [23:25:35.285] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.006300002336502075
+Info 353  [23:25:35.408] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 354  [23:25:35.420] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 61 structureChanged: false Elapsed: 12.085100010037422ms
+Info 355  [23:25:35.420] Different program with same set of files:: structureIsReused:: 2
+Info 356  [23:25:35.421] getCompletionData: Get current token: 0.012700006365776062
+Info 357  [23:25:35.421] getCompletionData: Is inside comment: 0.00619998574256897
+Info 358  [23:25:35.421] getCompletionData: Get previous token 1: 0.02010001242160797
+Info 359  [23:25:35.421] getCompletionData: Get previous token 2: 0.030100002884864807
+Info 360  [23:25:35.421] getCompletionsAtPosition: isCompletionListBlocker: 0.010999992489814758
+Info 361  [23:25:35.421] getCompletionData: Semantic work: 0.03519999980926514
+Info 362  [23:25:36.033] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 363  [23:25:36.040] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 62 structureChanged: false Elapsed: 7.1316999942064285ms
+Info 364  [23:25:36.040] Different program with same set of files:: structureIsReused:: 2
+Info 365  [23:25:36.040] getCompletionData: Get current token: 0.015599995851516724
+Info 366  [23:25:36.040] getCompletionData: Is inside comment: 0.007899999618530273
+Info 367  [23:25:36.040] getCompletionData: Get previous token 1: 0.022399991750717163
+Info 368  [23:25:36.040] getCompletionData: Get previous token 2: 0.03350000083446503
+Info 369  [23:25:36.041] getCompletionsAtPosition: isCompletionListBlocker: 0.010600000619888306
+Info 370  [23:25:36.041] getCompletionData: Semantic work: 0.03139999508857727
+Info 371  [23:25:36.666] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 372  [23:25:36.675] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 63 structureChanged: false Elapsed: 8.99379999935627ms
+Info 373  [23:25:36.676] Different program with same set of files:: structureIsReused:: 2
+Info 374  [23:25:37.487] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 375  [23:25:37.500] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 64 structureChanged: false Elapsed: 12.938500002026558ms
+Info 376  [23:25:37.500] Different program with same set of files:: structureIsReused:: 2
+Info 377  [23:25:37.578] getCompletionData: Get current token: 0.006099998950958252
+Info 378  [23:25:37.578] getCompletionData: Is inside comment: 0.016199991106987
+Info 379  [23:25:37.578] getCompletionData: Get previous token 1: 0.010100007057189941
+Info 380  [23:25:37.578] getCompletionsAtPosition: isCompletionListBlocker: 0.012999996542930603
+Info 381  [23:25:37.578] getCompletionData: Semantic work: 0.04410000145435333
+Info 382  [23:25:37.578] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.0029999911785125732
+Info 383  [23:25:37.701] getCompletionData: Get current token: 0.009899988770484924
+Info 384  [23:25:37.701] getCompletionData: Is inside comment: 0.027300000190734863
+Info 385  [23:25:37.701] getCompletionData: Get previous token 1: 0.013799995183944702
+Info 386  [23:25:37.701] getCompletionsAtPosition: isCompletionListBlocker: 0.014100000262260437
+Info 387  [23:25:37.701] getCompletionData: Semantic work: 0.03280000388622284
+Info 388  [23:25:38.279] getCompletionData: Get current token: 0.010399997234344482
+Info 389  [23:25:38.279] getCompletionData: Is inside comment: 0.027000010013580322
+Info 390  [23:25:38.279] getCompletionData: Get previous token 1: 0.013799995183944702
+Info 391  [23:25:38.279] getCompletionsAtPosition: isCompletionListBlocker: 0.013199999928474426
+Info 392  [23:25:38.279] getCompletionData: Semantic work: 0.03360000252723694
+Info 393  [23:25:38.834] getCompletionData: Get current token: 0.010700002312660217
+Info 394  [23:25:38.834] getCompletionData: Is inside comment: 0.026899993419647217
+Info 395  [23:25:38.834] getCompletionData: Get previous token 1: 0.013999998569488525
+Info 396  [23:25:38.834] getCompletionsAtPosition: isCompletionListBlocker: 0.01279999315738678
+Info 397  [23:25:38.834] getCompletionData: Semantic work: 0.03290000557899475
+Info 398  [23:25:39.016] getCompletionData: Get current token: 0.009800001978874207
+Info 399  [23:25:39.016] getCompletionData: Is inside comment: 0.028599992394447327
+Info 400  [23:25:39.016] getCompletionData: Get previous token 1: 0.013899996876716614
+Info 401  [23:25:39.016] getCompletionsAtPosition: isCompletionListBlocker: 0.012999996542930603
+Info 402  [23:25:39.016] getCompletionData: Semantic work: 0.03240001201629639
+Info 403  [23:25:39.293] getCompletionData: Get current token: 0.010700002312660217
+Info 404  [23:25:39.293] getCompletionData: Is inside comment: 0.028999999165534973
+Info 405  [23:25:39.293] getCompletionData: Get previous token 1: 0.013899996876716614
+Info 406  [23:25:39.293] getCompletionsAtPosition: isCompletionListBlocker: 0.013799995183944702
+Info 407  [23:25:39.293] getCompletionData: Semantic work: 0.03399999439716339
+Info 408  [23:25:39.545] getCompletionData: Get current token: 0.01000000536441803
+Info 409  [23:25:39.545] getCompletionData: Is inside comment: 0.027599990367889404
+Info 410  [23:25:39.545] getCompletionData: Get previous token 1: 0.013300001621246338
+Info 411  [23:25:39.545] getCompletionsAtPosition: isCompletionListBlocker: 0.013199999928474426
+Info 412  [23:25:39.545] getCompletionData: Semantic work: 0.04339998960494995
+Info 413  [23:25:39.845] getCompletionData: Get current token: 0.010100007057189941
+Info 414  [23:25:39.845] getCompletionData: Is inside comment: 0.02780000865459442
+Info 415  [23:25:39.845] getCompletionData: Get previous token 1: 0.01369999349117279
+Info 416  [23:25:39.845] getCompletionsAtPosition: isCompletionListBlocker: 0.013000011444091797
+Info 417  [23:25:39.845] getCompletionData: Semantic work: 0.032799988985061646
+Info 418  [23:25:41.761] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 419  [23:25:41.767] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 65 structureChanged: false Elapsed: 6.391499996185303ms
+Info 420  [23:25:41.767] Different program with same set of files:: structureIsReused:: 2
+Info 421  [23:26:15.913] FileWatcher:: Triggered with /home/aaron-gonzales/development/personal/angular/minimal-proj/package.json 1:: WatchInfo: /home/aaron-gonzales/development/personal/angular/minimal-proj/package.json 250 undefined Project:  WatchType: package.json file for import suggestions
+Info 422  [23:26:15.915] Elapsed:: 1.0640999972820282ms FileWatcher:: Triggered with /home/aaron-gonzales/development/personal/angular/minimal-proj/package.json 1:: WatchInfo: /home/aaron-gonzales/development/personal/angular/minimal-proj/package.json 250 undefined Project:  WatchType: package.json file for import suggestions
+Info 423  [23:26:27.477] DirectoryWatcher:: Triggered with /home/aaron-gonzales/development/personal/angular/minimal-proj/node_modules/@angular/language-service :: WatchInfo: /home/aaron-gonzales/development/personal/angular/minimal-proj 1 undefined Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json WatchType: Wild card directory
+Info 424  [23:26:27.479] Elapsed:: 1.4257000088691711ms DirectoryWatcher:: Triggered with /home/aaron-gonzales/development/personal/angular/minimal-proj/node_modules/@angular/language-service :: WatchInfo: /home/aaron-gonzales/development/personal/angular/minimal-proj 1 undefined Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json WatchType: Wild card directory
+Info 425  [23:26:27.479] DirectoryWatcher:: Triggered with /home/aaron-gonzales/development/personal/angular/minimal-proj/node_modules/@angular/language-service :: WatchInfo: /home/aaron-gonzales/development/personal/angular/minimal-proj/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 426  [23:26:27.479] Elapsed:: 0.302700012922287ms DirectoryWatcher:: Triggered with /home/aaron-gonzales/development/personal/angular/minimal-proj/node_modules/@angular/language-service :: WatchInfo: /home/aaron-gonzales/development/personal/angular/minimal-proj/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 427  [23:26:27.479] DirectoryWatcher:: Triggered with /home/aaron-gonzales/development/personal/angular/minimal-proj/node_modules/@angular/language-service :: WatchInfo: /home/aaron-gonzales/development/personal/angular/minimal-proj/node_modules 1 undefined Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json WatchType: Failed Lookup Locations
+Info 428  [23:26:27.479] Elapsed:: 0.16359999775886536ms DirectoryWatcher:: Triggered with /home/aaron-gonzales/development/personal/angular/minimal-proj/node_modules/@angular/language-service :: WatchInfo: /home/aaron-gonzales/development/personal/angular/minimal-proj/node_modules 1 undefined Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json WatchType: Failed Lookup Locations
+Info 429  [23:26:27.479] DirectoryWatcher:: Triggered with /home/aaron-gonzales/development/personal/angular/minimal-proj/node_modules/@angular/language-service :: WatchInfo: /home/aaron-gonzales/development/personal/angular/minimal-proj/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 430  [23:26:27.479] Elapsed:: 0.02059999108314514ms DirectoryWatcher:: Triggered with /home/aaron-gonzales/development/personal/angular/minimal-proj/node_modules/@angular/language-service :: WatchInfo: /home/aaron-gonzales/development/personal/angular/minimal-proj/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 431  [23:26:27.734] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 432  [23:26:27.735] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 66 structureChanged: false Elapsed: 1.4956000000238419ms
+Info 433  [23:26:28.423] FileWatcher:: Triggered with /home/aaron-gonzales/development/personal/angular/minimal-proj/package.json 1:: WatchInfo: /home/aaron-gonzales/development/personal/angular/minimal-proj/package.json 250 undefined Project:  WatchType: package.json file for import suggestions
+Info 434  [23:26:28.424] Elapsed:: 0.17880000174045563ms FileWatcher:: Triggered with /home/aaron-gonzales/development/personal/angular/minimal-proj/package.json 1:: WatchInfo: /home/aaron-gonzales/development/personal/angular/minimal-proj/package.json 250 undefined Project:  WatchType: package.json file for import suggestions
+Info 435  [23:26:28.909] DirectoryWatcher:: Triggered with /home/aaron-gonzales/development/personal/angular/minimal-proj :: WatchInfo: /home/aaron-gonzales/development/personal/angular/minimal-proj 1 undefined Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json WatchType: Wild card directory
+Info 436  [23:26:28.909] Elapsed:: 0.09569999575614929ms DirectoryWatcher:: Triggered with /home/aaron-gonzales/development/personal/angular/minimal-proj :: WatchInfo: /home/aaron-gonzales/development/personal/angular/minimal-proj 1 undefined Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json WatchType: Wild card directory
+Info 437  [23:26:28.909] DirectoryWatcher:: Triggered with /home/aaron-gonzales/development/personal/angular/minimal-proj/node_modules :: WatchInfo: /home/aaron-gonzales/development/personal/angular/minimal-proj/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 438  [23:26:28.912] Elapsed:: 2.179400011897087ms DirectoryWatcher:: Triggered with /home/aaron-gonzales/development/personal/angular/minimal-proj/node_modules :: WatchInfo: /home/aaron-gonzales/development/personal/angular/minimal-proj/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 439  [23:26:28.912] DirectoryWatcher:: Triggered with /home/aaron-gonzales/development/personal/angular/minimal-proj/node_modules :: WatchInfo: /home/aaron-gonzales/development/personal/angular/minimal-proj/node_modules 1 undefined Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json WatchType: Failed Lookup Locations
+Info 440  [23:26:28.912] Elapsed:: 0.14350000023841858ms DirectoryWatcher:: Triggered with /home/aaron-gonzales/development/personal/angular/minimal-proj/node_modules :: WatchInfo: /home/aaron-gonzales/development/personal/angular/minimal-proj/node_modules 1 undefined Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json WatchType: Failed Lookup Locations
+Info 441  [23:26:28.912] DirectoryWatcher:: Triggered with /home/aaron-gonzales/development/personal/angular/minimal-proj/node_modules :: WatchInfo: /home/aaron-gonzales/development/personal/angular/minimal-proj/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 442  [23:26:28.912] Elapsed:: 0.024800002574920654ms DirectoryWatcher:: Triggered with /home/aaron-gonzales/development/personal/angular/minimal-proj/node_modules :: WatchInfo: /home/aaron-gonzales/development/personal/angular/minimal-proj/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 443  [23:26:29.167] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 444  [23:26:29.527] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 67 structureChanged: true Elapsed: 359.46649999916553ms
+Info 445  [23:26:29.527] Project '/home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json' (Configured)
+Info 446  [23:26:29.527] 	Files (304)
+
+Info 447  [23:26:29.527] -----------------------------------------------
+Info 448  [23:26:29.527] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 449  [23:26:29.527] 	Files (71)
+
+Info 450  [23:26:29.527] -----------------------------------------------
+Info 451  [23:26:30.176] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
+Info 452  [23:26:30.407] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* Version: 2 structureChanged: true Elapsed: 230.25789999961853ms
+Info 453  [23:26:30.407] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 454  [23:26:30.407] 	Files (74)
+
+Info 455  [23:26:30.407] -----------------------------------------------
+Info 456  [23:26:32.417] Before ensureProjectForOpenFiles:
+Info 457  [23:26:32.417] After ensureProjectForOpenFiles:
+Info 458  [23:26:32.417] got projects updated in background, updating diagnostics for /home/aaron-gonzales/development/personal/angular/minimal-proj/src/app/app.component.ts
+Info 459  [23:26:47.435] Search path: /home/aaron-gonzales/development/personal/angular/minimal-proj/src/app
+Info 460  [23:26:47.435] For info: /home/aaron-gonzales/development/personal/angular/minimal-proj/src/app/app.component.ts :: Config file name: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 461  [23:26:47.435] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 462  [23:26:47.452] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 68 structureChanged: false Elapsed: 17.153999999165535ms
+Info 463  [23:26:47.452] Different program with same set of files:: structureIsReused:: 2
+Info 464  [23:26:47.733] Search path: /home/aaron-gonzales/development/personal/angular/minimal-proj/src/app
+Info 465  [23:26:47.733] For info: /home/aaron-gonzales/development/personal/angular/minimal-proj/src/app/app.component.ts :: Config file name: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 466  [23:26:48.108] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 467  [23:26:48.124] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 69 structureChanged: false Elapsed: 15.244499996304512ms
+Info 468  [23:26:48.124] Different program with same set of files:: structureIsReused:: 2
+Info 469  [23:26:52.045] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 470  [23:26:52.055] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 70 structureChanged: false Elapsed: 9.794500008225441ms
+Info 471  [23:26:52.055] Different program with same set of files:: structureIsReused:: 2
+Info 472  [23:26:52.593] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 473  [23:26:52.606] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 71 structureChanged: false Elapsed: 13.114500001072884ms
+Info 474  [23:26:52.606] Different program with same set of files:: structureIsReused:: 2
+Info 475  [23:26:52.607] getCompletionData: Get current token: 0.019900009036064148
+Info 476  [23:26:52.607] getCompletionData: Is inside comment: 0.008599996566772461
+Info 477  [23:26:52.607] getCompletionData: Get previous token 1: 0.023000001907348633
+Info 478  [23:26:52.607] getCompletionsAtPosition: isCompletionListBlocker: 0.014599993824958801
+Info 479  [23:26:52.607] getCompletionData: Semantic work: 0.03899998962879181
+Info 480  [23:26:53.467] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 481  [23:26:53.477] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 72 structureChanged: false Elapsed: 9.551100000739098ms
+Info 482  [23:26:53.477] Different program with same set of files:: structureIsReused:: 2
+Info 483  [23:26:53.477] getCompletionData: Get current token: 0.011500000953674316
+Info 484  [23:26:53.477] getCompletionData: Is inside comment: 0.006099998950958252
+Info 485  [23:26:53.477] getCompletionData: Get previous token 1: 0.017000004649162292
+Info 486  [23:26:53.477] getCompletionsAtPosition: isCompletionListBlocker: 0.009700000286102295
+Info 487  [23:26:53.477] getCompletionData: Semantic work: 0.045200005173683167
+Info 488  [23:26:54.334] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 489  [23:26:54.343] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 73 structureChanged: false Elapsed: 9.19370000064373ms
+Info 490  [23:26:54.343] Different program with same set of files:: structureIsReused:: 2
+Info 491  [23:26:54.906] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 492  [23:26:54.917] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 74 structureChanged: false Elapsed: 10.834199994802475ms
+Info 493  [23:26:54.917] Different program with same set of files:: structureIsReused:: 2
+Info 494  [23:26:55.133] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 495  [23:26:55.144] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 75 structureChanged: false Elapsed: 11.422499999403954ms
+Info 496  [23:26:55.144] Different program with same set of files:: structureIsReused:: 2
+Info 497  [23:26:55.530] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 498  [23:26:55.537] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 76 structureChanged: false Elapsed: 6.824799999594688ms
+Info 499  [23:26:55.537] Different program with same set of files:: structureIsReused:: 2
+Info 500  [23:26:57.800] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 501  [23:26:57.814] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 77 structureChanged: false Elapsed: 14.262500002980232ms
+Info 502  [23:26:57.814] Different program with same set of files:: structureIsReused:: 2
+Info 503  [23:26:57.814] getCompletionData: Get current token: 0.005600005388259888
+Info 504  [23:26:57.814] getCompletionData: Is inside comment: 0.02359999716281891
+Info 505  [23:26:57.814] getCompletionData: Get previous token 1: 0.014200001955032349
+Info 506  [23:26:57.814] getCompletionData: Get previous token 2: 0.028300002217292786
+Info 507  [23:26:57.814] getCompletionsAtPosition: isCompletionListBlocker: 0.010799989104270935
+Info 508  [23:26:57.815] getCompletionData: Semantic work: 0.03129999339580536
+Info 509  [23:26:57.815] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.0017000138759613037
+Info 510  [23:26:57.830] getCompletionData: Get current token: 0.01019999384880066
+Info 511  [23:26:57.830] getCompletionData: Is inside comment: 0.06480000913143158
+Info 512  [23:26:57.830] getCompletionData: Get previous token 1: 0.01580001413822174
+Info 513  [23:26:57.830] getCompletionData: Get previous token 2: 0.023299992084503174
+Info 514  [23:26:57.830] getCompletionsAtPosition: isCompletionListBlocker: 0.014600008726119995
+Info 515  [23:26:57.830] getCompletionData: Semantic work: 0.03370000422000885
+Info 516  [23:26:58.446] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 517  [23:26:58.455] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 78 structureChanged: false Elapsed: 8.289000004529953ms
+Info 518  [23:26:58.455] Different program with same set of files:: structureIsReused:: 2
+Info 519  [23:26:58.732] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 520  [23:26:58.740] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 79 structureChanged: false Elapsed: 8.118300005793571ms
+Info 521  [23:26:58.740] Different program with same set of files:: structureIsReused:: 2
+Info 522  [23:26:58.985] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 523  [23:26:58.993] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 80 structureChanged: false Elapsed: 8.259900003671646ms
+Info 524  [23:26:58.993] Different program with same set of files:: structureIsReused:: 2
+Info 525  [23:26:58.993] getCompletionData: Get current token: 0.004799991846084595
+Info 526  [23:26:58.993] getCompletionData: Is inside comment: 0.016100004315376282
+Info 527  [23:26:58.993] getCompletionData: Get previous token 1: 0.010700002312660217
+Info 528  [23:26:58.993] getCompletionData: Get previous token 2: 0.0195000022649765
+Info 529  [23:26:58.993] getCompletionsAtPosition: isCompletionListBlocker: 0.010799989104270935
+Info 530  [23:26:58.993] getCompletionData: Semantic work: 0.02860000729560852
+Info 531  [23:26:58.993] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.0012000054121017456
+Info 532  [23:26:59.015] getCompletionData: Get current token: 0.009800001978874207
+Info 533  [23:26:59.015] getCompletionData: Is inside comment: 0.35510000586509705
+Info 534  [23:26:59.015] getCompletionData: Get previous token 1: 0.022200003266334534
+Info 535  [23:26:59.015] getCompletionData: Get previous token 2: 0.016599997878074646
+Info 536  [23:26:59.015] getCompletionsAtPosition: isCompletionListBlocker: 0.014399990439414978
+Info 537  [23:26:59.015] getCompletionData: Semantic work: 0.038200005888938904
+Info 538  [23:27:00.587] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 539  [23:27:00.601] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 81 structureChanged: false Elapsed: 13.889200001955032ms
+Info 540  [23:27:00.601] Different program with same set of files:: structureIsReused:: 2
+Info 541  [23:27:00.755] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 542  [23:27:00.766] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 82 structureChanged: false Elapsed: 10.803299993276596ms
+Info 543  [23:27:00.766] Different program with same set of files:: structureIsReused:: 2
+Info 544  [23:27:00.766] getCompletionData: Get current token: 0.0040000081062316895
+Info 545  [23:27:00.766] getCompletionData: Is inside comment: 0.0203000009059906
+Info 546  [23:27:00.766] getCompletionData: Get previous token 1: 0.012899994850158691
+Info 547  [23:27:00.766] getCompletionData: Get previous token 2: 0.030600011348724365
+Info 548  [23:27:00.766] getCompletionsAtPosition: isCompletionListBlocker: 0.013199999928474426
+Info 549  [23:27:00.766] getCompletionData: Semantic work: 0.04249998927116394
+Info 550  [23:27:00.766] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.001399993896484375
+Info 551  [23:27:00.782] getCompletionData: Get current token: 0.006300002336502075
+Info 552  [23:27:00.782] getCompletionData: Is inside comment: 0.026399999856948853
+Info 553  [23:27:00.782] getCompletionData: Get previous token 1: 0.01279999315738678
+Info 554  [23:27:00.782] getCompletionData: Get previous token 2: 0.014500007033348083
+Info 555  [23:27:00.782] getCompletionsAtPosition: isCompletionListBlocker: 0.012500002980232239
+Info 556  [23:27:00.782] getCompletionData: Semantic work: 0.036799997091293335
+Info 557  [23:27:01.626] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 558  [23:27:01.633] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 83 structureChanged: false Elapsed: 7.051499992609024ms
+Info 559  [23:27:01.633] Different program with same set of files:: structureIsReused:: 2
+Info 560  [23:27:01.633] getCompletionData: Get current token: 0.004199996590614319
+Info 561  [23:27:01.633] getCompletionData: Is inside comment: 0.021600008010864258
+Info 562  [23:27:01.633] getCompletionData: Get previous token 1: 0.01400001347064972
+Info 563  [23:27:01.633] getCompletionData: Get previous token 2: 0.02719999849796295
+Info 564  [23:27:01.633] getCompletionsAtPosition: isCompletionListBlocker: 0.009900003671646118
+Info 565  [23:27:01.633] getCompletionData: Semantic work: 0.03120000660419464
+Info 566  [23:27:01.633] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.0013000071048736572
+Info 567  [23:27:02.510] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 568  [23:27:02.518] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 84 structureChanged: false Elapsed: 7.785199999809265ms
+Info 569  [23:27:02.518] Different program with same set of files:: structureIsReused:: 2
+Info 570  [23:27:02.518] getCompletionData: Get current token: 0.003299996256828308
+Info 571  [23:27:02.518] getCompletionData: Is inside comment: 0.04320000112056732
+Info 572  [23:27:02.518] getCompletionData: Get previous token 1: 0.026399999856948853
+Info 573  [23:27:02.519] getCompletionData: Get previous token 2: 0.056199997663497925
+Info 574  [23:27:02.519] getCompletionsAtPosition: isCompletionListBlocker: 0.01019999384880066
+Info 575  [23:27:02.519] getCompletionData: Semantic work: 0.059599995613098145
+Info 576  [23:27:02.519] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.0012999922037124634
+Info 577  [23:27:03.063] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 578  [23:27:03.070] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 85 structureChanged: false Elapsed: 7.038100004196167ms
+Info 579  [23:27:03.071] Different program with same set of files:: structureIsReused:: 2
+Info 580  [23:27:03.249] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 581  [23:27:03.260] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 86 structureChanged: false Elapsed: 11.280599996447563ms
+Info 582  [23:27:03.260] Different program with same set of files:: structureIsReused:: 2
+Info 583  [23:27:03.261] getCompletionData: Get current token: 0.003299996256828308
+Info 584  [23:27:03.261] getCompletionData: Is inside comment: 0.019899994134902954
+Info 585  [23:27:03.261] getCompletionData: Get previous token 1: 0.05009999871253967
+Info 586  [23:27:03.261] getCompletionData: Get previous token 2: 0.02860000729560852
+Info 587  [23:27:03.261] getCompletionsAtPosition: isCompletionListBlocker: 0.010700002312660217
+Info 588  [23:27:03.261] getCompletionData: Semantic work: 0.05269999802112579
+Info 589  [23:27:03.261] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.0016999989748001099
+Info 590  [23:27:03.281] getCompletionData: Get current token: 0.006999999284744263
+Info 591  [23:27:03.281] getCompletionData: Is inside comment: 0.026399999856948853
+Info 592  [23:27:03.281] getCompletionData: Get previous token 1: 0.01369999349117279
+Info 593  [23:27:03.282] getCompletionData: Get previous token 2: 0.01570001244544983
+Info 594  [23:27:03.282] getCompletionsAtPosition: isCompletionListBlocker: 0.012800008058547974
+Info 595  [23:27:03.282] getCompletionData: Semantic work: 0.03559999167919159
+Info 596  [23:27:04.070] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 597  [23:27:04.080] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 87 structureChanged: false Elapsed: 9.008499994874ms
+Info 598  [23:27:04.080] Different program with same set of files:: structureIsReused:: 2
+Info 599  [23:27:04.080] getCompletionData: Get current token: 0.004600003361701965
+Info 600  [23:27:04.080] getCompletionData: Is inside comment: 0.019900009036064148
+Info 601  [23:27:04.080] getCompletionData: Get previous token 1: 0.0268000066280365
+Info 602  [23:27:04.080] getCompletionData: Get previous token 2: 0.02170000970363617
+Info 603  [23:27:04.080] getCompletionsAtPosition: isCompletionListBlocker: 0.013199999928474426
+Info 604  [23:27:04.080] getCompletionData: Semantic work: 0.044200003147125244
+Info 605  [23:27:04.080] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.0014000087976455688
+Info 606  [23:27:04.112] getCompletionData: Get current token: 0.007599994540214539
+Info 607  [23:27:04.112] getCompletionData: Is inside comment: 0.025700002908706665
+Info 608  [23:27:04.113] getCompletionData: Get previous token 1: 0.01660001277923584
+Info 609  [23:27:04.113] getCompletionData: Get previous token 2: 0.012699991464614868
+Info 610  [23:27:04.113] getCompletionsAtPosition: isCompletionListBlocker: 0.012899994850158691
+Info 611  [23:27:04.113] getCompletionData: Semantic work: 0.06849999725818634
+Info 612  [23:27:04.784] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 613  [23:27:04.794] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 88 structureChanged: false Elapsed: 10.221700012683868ms
+Info 614  [23:27:04.795] Different program with same set of files:: structureIsReused:: 2
+Info 615  [23:27:05.093] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 616  [23:27:05.101] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 89 structureChanged: false Elapsed: 7.958000004291534ms
+Info 617  [23:27:05.101] Different program with same set of files:: structureIsReused:: 2
+Info 618  [23:27:05.101] getCompletionData: Get current token: 0.004199996590614319
+Info 619  [23:27:05.101] getCompletionData: Is inside comment: 0.06840001046657562
+Info 620  [23:27:05.101] getCompletionData: Get previous token 1: 0.018099993467330933
+Info 621  [23:27:05.101] getCompletionData: Get previous token 2: 0.07879999279975891
+Info 622  [23:27:05.101] getCompletionsAtPosition: isCompletionListBlocker: 0.010999992489814758
+Info 623  [23:27:05.101] getCompletionData: Semantic work: 0.029899999499320984
+Info 624  [23:27:05.101] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.0012999922037124634
+Info 625  [23:27:05.712] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 626  [23:27:05.718] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 90 structureChanged: false Elapsed: 6.750400006771088ms
+Info 627  [23:27:05.718] Different program with same set of files:: structureIsReused:: 2
+Info 628  [23:27:06.669] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 629  [23:27:06.677] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 91 structureChanged: false Elapsed: 7.583700001239777ms
+Info 630  [23:27:06.677] Different program with same set of files:: structureIsReused:: 2
+Info 631  [23:27:06.677] getCompletionData: Get current token: 0.006099998950958252
+Info 632  [23:27:06.677] getCompletionData: Is inside comment: 0.026600003242492676
+Info 633  [23:27:06.677] getCompletionData: Get previous token 1: 0.013599991798400879
+Info 634  [23:27:06.678] getCompletionData: Get previous token 2: 0.02789999544620514
+Info 635  [23:27:06.678] getCompletionsAtPosition: isCompletionListBlocker: 0.009100005030632019
+Info 636  [23:27:06.678] getCompletionData: Semantic work: 0.029300004243850708
+Info 637  [23:27:07.437] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 638  [23:27:07.443] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 92 structureChanged: false Elapsed: 5.942199990153313ms
+Info 639  [23:27:07.443] Different program with same set of files:: structureIsReused:: 2
+Info 640  [23:27:10.076] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 641  [23:27:10.082] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 93 structureChanged: false Elapsed: 6.151199996471405ms
+Info 642  [23:27:10.082] Different program with same set of files:: structureIsReused:: 2
+Info 643  [23:27:11.404] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 644  [23:27:11.410] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 94 structureChanged: false Elapsed: 5.909999996423721ms
+Info 645  [23:27:11.410] Different program with same set of files:: structureIsReused:: 2
+Info 646  [23:27:12.446] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 647  [23:27:12.452] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 95 structureChanged: false Elapsed: 5.949400007724762ms
+Info 648  [23:27:12.452] Different program with same set of files:: structureIsReused:: 2
+Info 649  [23:27:12.452] getCompletionData: Get current token: 0.0021000057458877563
+Info 650  [23:27:12.452] getCompletionData: Is inside comment: 0.01279999315738678
+Info 651  [23:27:12.452] getCompletionData: Get previous token 1: 0.009600013494491577
+Info 652  [23:27:12.452] getCompletionData: Get previous token 2: 0.033399999141693115
+Info 653  [23:27:12.452] getCompletionsAtPosition: isCompletionListBlocker: 0.009900003671646118
+Info 654  [23:27:12.456] getSymbolsFromOtherSourceFileExports: Recomputing list
+Info 655  [23:27:12.501] forEachExternalModuleToImportFrom: filtered out 26 modules by package.json contents
+Info 656  [23:27:12.514] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 657  [23:27:12.514] forEachExternalModuleToImportFrom autoImportProvider: 13.229499995708466
+Info 658  [23:27:12.515] getSymbolsFromOtherSourceFileExports: 59.17629998922348
+Info 659  [23:27:12.521] getCompletionData: Semantic work: 68.76449999213219
+Info 660  [23:27:12.537] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 15.961600005626678
+Info 661  [23:27:12.759] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 662  [23:27:12.766] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 96 structureChanged: false Elapsed: 6.217800006270409ms
+Info 663  [23:27:12.766] Different program with same set of files:: structureIsReused:: 2
+Info 664  [23:27:12.766] getCompletionData: Get current token: 0.008600011467933655
+Info 665  [23:27:12.766] getCompletionData: Is inside comment: 0.006300002336502075
+Info 666  [23:27:12.766] getCompletionData: Get previous token 1: 0.016699999570846558
+Info 667  [23:27:12.766] getCompletionData: Get previous token 2: 0.03270000219345093
+Info 668  [23:27:12.766] getCompletionsAtPosition: isCompletionListBlocker: 0.009099990129470825
+Info 669  [23:27:12.768] getSymbolsFromOtherSourceFileExports: Recomputing list for details entry
+Info 670  [23:27:12.796] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 671  [23:27:12.801] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 672  [23:27:12.801] forEachExternalModuleToImportFrom autoImportProvider: 5.473100006580353
+Info 673  [23:27:12.802] getSymbolsFromOtherSourceFileExports: 33.42219999432564
+Info 674  [23:27:12.815] getCompletionData: Semantic work: 49.16050000488758
+Info 675  [23:27:17.596] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 676  [23:27:17.603] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 97 structureChanged: false Elapsed: 6.790100008249283ms
+Info 677  [23:27:17.603] Different program with same set of files:: structureIsReused:: 2
+Info 678  [23:27:18.604] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 679  [23:27:18.610] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 98 structureChanged: false Elapsed: 6.49099999666214ms
+Info 680  [23:27:18.610] Different program with same set of files:: structureIsReused:: 2
+Info 681  [23:27:19.860] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 682  [23:27:19.866] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 99 structureChanged: false Elapsed: 5.878299996256828ms
+Info 683  [23:27:19.866] Different program with same set of files:: structureIsReused:: 2
+Info 684  [23:27:19.867] getCompletionData: Get current token: 0.001900002360343933
+Info 685  [23:27:19.867] getCompletionData: Is inside comment: 0.010899990797042847
+Info 686  [23:27:19.867] getCompletionData: Get previous token 1: 0.010899990797042847
+Info 687  [23:27:19.867] getCompletionData: Get previous token 2: 0.04190000891685486
+Info 688  [23:27:19.867] getCompletionsAtPosition: isCompletionListBlocker: 0.0027000010013580322
+Info 689  [23:27:19.867] Returning an empty list because completion was requested in an invalid position.
+Info 690  [23:27:20.480] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 691  [23:27:20.486] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 100 structureChanged: false Elapsed: 6.103000000119209ms
+Info 692  [23:27:20.486] Different program with same set of files:: structureIsReused:: 2
+Info 693  [23:27:20.864] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 694  [23:27:20.870] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 101 structureChanged: false Elapsed: 6.290399998426437ms
+Info 695  [23:27:20.870] Different program with same set of files:: structureIsReused:: 2
+Info 696  [23:27:21.128] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 697  [23:27:21.135] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 102 structureChanged: false Elapsed: 6.946199998259544ms
+Info 698  [23:27:21.135] Different program with same set of files:: structureIsReused:: 2
+Info 699  [23:27:21.808] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 700  [23:27:21.820] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 103 structureChanged: false Elapsed: 11.587200000882149ms
+Info 701  [23:27:21.820] Different program with same set of files:: structureIsReused:: 2
+Info 702  [23:27:22.072] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 703  [23:27:22.080] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 104 structureChanged: false Elapsed: 7.525799989700317ms
+Info 704  [23:27:22.080] Different program with same set of files:: structureIsReused:: 2
+Info 705  [23:27:22.327] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 706  [23:27:22.333] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 105 structureChanged: false Elapsed: 6.674999997019768ms
+Info 707  [23:27:22.333] Different program with same set of files:: structureIsReused:: 2
+Info 708  [23:27:23.178] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 709  [23:27:23.189] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 106 structureChanged: false Elapsed: 11.034199997782707ms
+Info 710  [23:27:23.189] Different program with same set of files:: structureIsReused:: 2
+Info 711  [23:27:27.699] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 712  [23:27:27.708] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 107 structureChanged: false Elapsed: 8.670100003480911ms
+Info 713  [23:27:27.708] Different program with same set of files:: structureIsReused:: 2
+Info 714  [23:27:28.140] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 715  [23:27:28.146] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 108 structureChanged: false Elapsed: 6.0438999980688095ms
+Info 716  [23:27:28.146] Different program with same set of files:: structureIsReused:: 2
+Info 717  [23:27:28.496] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 718  [23:27:28.505] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 109 structureChanged: false Elapsed: 9.12169998884201ms
+Info 719  [23:27:28.506] Different program with same set of files:: structureIsReused:: 2
+Info 720  [23:27:28.506] getCompletionData: Get current token: 0.0025999993085861206
+Info 721  [23:27:28.506] getCompletionData: Is inside comment: 0.01170000433921814
+Info 722  [23:27:28.506] getCompletionData: Get previous token 1: 0.00769999623298645
+Info 723  [23:27:28.506] getCompletionData: Get previous token 2: 0.03289999067783356
+Info 724  [23:27:28.506] getCompletionsAtPosition: isCompletionListBlocker: 0.02719999849796295
+Info 725  [23:27:28.512] getSymbolsFromOtherSourceFileExports: Using cached list
+Info 726  [23:27:28.526] getCompletionData: Semantic work: 19.591499999165535
+Info 727  [23:27:28.548] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 20.61369998753071
+Info 728  [23:27:28.825] getCompletionData: Get current token: 0.005000010132789612
+Info 729  [23:27:28.825] getCompletionData: Is inside comment: 0.028200000524520874
+Info 730  [23:27:28.825] getCompletionData: Get previous token 1: 0.009599998593330383
+Info 731  [23:27:28.825] getCompletionData: Get previous token 2: 0.018899992108345032
+Info 732  [23:27:28.826] getCompletionsAtPosition: isCompletionListBlocker: 0.006300002336502075
+Info 733  [23:27:28.829] getSymbolsFromOtherSourceFileExports: Using cached list
+Info 734  [23:27:28.843] getCompletionData: Semantic work: 17.692100003361702
+Info 735  [23:27:29.868] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 736  [23:27:29.874] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 110 structureChanged: false Elapsed: 6.10139998793602ms
+Info 737  [23:27:29.874] Different program with same set of files:: structureIsReused:: 2
+Info 738  [23:27:29.874] getCompletionData: Get current token: 0.011100009083747864
+Info 739  [23:27:29.874] getCompletionData: Is inside comment: 0.006200000643730164
+Info 740  [23:27:29.874] getCompletionData: Get previous token 1: 0.01570001244544983
+Info 741  [23:27:29.874] getCompletionData: Get previous token 2: 0.009499996900558472
+Info 742  [23:27:29.874] getCompletionsAtPosition: isCompletionListBlocker: 0.0033999979496002197
+Info 743  [23:27:29.876] getSymbolsFromOtherSourceFileExports: Recomputing list for details entry
+Info 744  [23:27:29.904] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 745  [23:27:29.909] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 746  [23:27:29.909] forEachExternalModuleToImportFrom autoImportProvider: 4.743100002408028
+Info 747  [23:27:29.911] getSymbolsFromOtherSourceFileExports: 34.392700001597404
+Info 748  [23:27:29.921] getCompletionData: Semantic work: 46.217599987983704
+Info 749  [23:27:30.265] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 750  [23:27:30.271] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 111 structureChanged: false Elapsed: 6.192300006747246ms
+Info 751  [23:27:30.271] Different program with same set of files:: structureIsReused:: 2
+Info 752  [23:27:30.271] getCompletionData: Get current token: 0.009000003337860107
+Info 753  [23:27:30.271] getCompletionData: Is inside comment: 0.007799997925758362
+Info 754  [23:27:30.271] getCompletionData: Get previous token 1: 0.016199991106987
+Info 755  [23:27:30.271] getCompletionData: Get previous token 2: 0.009400010108947754
+Info 756  [23:27:30.271] getCompletionsAtPosition: isCompletionListBlocker: 0.003800004720687866
+Info 757  [23:27:30.273] getSymbolsFromOtherSourceFileExports: Recomputing list for details entry
+Info 758  [23:27:30.293] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 759  [23:27:30.299] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 760  [23:27:30.299] forEachExternalModuleToImportFrom autoImportProvider: 5.472300007939339
+Info 761  [23:27:30.299] getSymbolsFromOtherSourceFileExports: 26.050999999046326
+Info 762  [23:27:30.302] getCompletionData: Semantic work: 30.262199997901917
+Info 763  [23:27:30.578] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 764  [23:27:30.585] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 112 structureChanged: false Elapsed: 6.257799997925758ms
+Info 765  [23:27:30.585] Different program with same set of files:: structureIsReused:: 2
+Info 766  [23:27:30.585] getCompletionData: Get current token: 0.00849999487400055
+Info 767  [23:27:30.585] getCompletionData: Is inside comment: 0.004999995231628418
+Info 768  [23:27:30.585] getCompletionData: Get previous token 1: 0.016599997878074646
+Info 769  [23:27:30.585] getCompletionData: Get previous token 2: 0.008699998259544373
+Info 770  [23:27:30.585] getCompletionsAtPosition: isCompletionListBlocker: 0.003600001335144043
+Info 771  [23:27:30.588] getSymbolsFromOtherSourceFileExports: Recomputing list for details entry
+Info 772  [23:27:30.607] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 773  [23:27:30.612] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 774  [23:27:30.612] forEachExternalModuleToImportFrom autoImportProvider: 4.3064999878406525
+Info 775  [23:27:30.612] getSymbolsFromOtherSourceFileExports: 23.886099994182587
+Info 776  [23:27:30.614] getCompletionData: Semantic work: 29.451100006699562
+Info 777  [23:27:30.905] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 778  [23:27:30.912] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 113 structureChanged: false Elapsed: 6.43809999525547ms
+Info 779  [23:27:30.912] Different program with same set of files:: structureIsReused:: 2
+Info 780  [23:27:30.912] getCompletionData: Get current token: 0.008799999952316284
+Info 781  [23:27:30.912] getCompletionData: Is inside comment: 0.007500007748603821
+Info 782  [23:27:30.912] getCompletionData: Get previous token 1: 0.016200006008148193
+Info 783  [23:27:30.912] getCompletionData: Get previous token 2: 0.012800008058547974
+Info 784  [23:27:30.912] getCompletionsAtPosition: isCompletionListBlocker: 0.0032000094652175903
+Info 785  [23:27:30.913] getSymbolsFromOtherSourceFileExports: Recomputing list for details entry
+Info 786  [23:27:30.932] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 787  [23:27:30.935] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 788  [23:27:30.935] forEachExternalModuleToImportFrom autoImportProvider: 3.8339000046253204
+Info 789  [23:27:30.936] getSymbolsFromOtherSourceFileExports: 22.94709999859333
+Info 790  [23:27:30.939] getCompletionData: Semantic work: 26.315400004386902
+Info 791  [23:27:31.856] getCompletionData: Get current token: 0.015400007367134094
+Info 792  [23:27:31.856] getCompletionData: Is inside comment: 0.034999996423721313
+Info 793  [23:27:31.856] getCompletionData: Get previous token 1: 0.028999999165534973
+Info 794  [23:27:31.856] getCompletionData: Get previous token 2: 0.008599996566772461
+Info 795  [23:27:31.856] getCompletionsAtPosition: isCompletionListBlocker: 0.0049000084400177
+Info 796  [23:27:31.857] getSymbolsFromOtherSourceFileExports: Recomputing list for details entry
+Info 797  [23:27:31.865] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 798  [23:27:31.869] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 799  [23:27:31.869] forEachExternalModuleToImportFrom autoImportProvider: 3.9170999974012375
+Info 800  [23:27:31.870] getSymbolsFromOtherSourceFileExports: 12.294799998402596
+Info 801  [23:27:31.871] getCompletionData: Semantic work: 15.384700000286102
+Info 802  [23:27:32.364] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 803  [23:27:32.371] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 114 structureChanged: false Elapsed: 6.670399993658066ms
+Info 804  [23:27:32.371] Different program with same set of files:: structureIsReused:: 2
+Info 805  [23:27:33.671] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 806  [23:27:33.681] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 115 structureChanged: false Elapsed: 9.213799998164177ms
+Info 807  [23:27:33.681] Different program with same set of files:: structureIsReused:: 2
+Info 808  [23:27:33.914] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 809  [23:27:33.920] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 116 structureChanged: false Elapsed: 6.016099989414215ms
+Info 810  [23:27:33.920] Different program with same set of files:: structureIsReused:: 2
+Info 811  [23:27:34.400] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 812  [23:27:34.406] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 117 structureChanged: false Elapsed: 5.986299991607666ms
+Info 813  [23:27:34.406] Different program with same set of files:: structureIsReused:: 2
+Info 814  [23:27:36.786] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 815  [23:27:36.792] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 118 structureChanged: false Elapsed: 5.894099995493889ms
+Info 816  [23:27:36.792] Different program with same set of files:: structureIsReused:: 2
+Info 817  [23:27:37.069] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 818  [23:27:37.076] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 119 structureChanged: false Elapsed: 7.122399985790253ms
+Info 819  [23:27:37.076] Different program with same set of files:: structureIsReused:: 2
+Info 820  [23:27:38.840] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 821  [23:27:38.848] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 120 structureChanged: false Elapsed: 7.774700000882149ms
+Info 822  [23:27:38.848] Different program with same set of files:: structureIsReused:: 2
+Info 823  [23:27:39.278] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 824  [23:27:39.286] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 121 structureChanged: false Elapsed: 7.975400000810623ms
+Info 825  [23:27:39.286] Different program with same set of files:: structureIsReused:: 2
+Info 826  [23:27:39.286] getCompletionData: Get current token: 0.0037999898195266724
+Info 827  [23:27:39.286] getCompletionData: Is inside comment: 0.03659999370574951
+Info 828  [23:27:39.286] getCompletionData: Get previous token 1: 0.025800004601478577
+Info 829  [23:27:39.286] getCompletionData: Get previous token 2: 0.050200000405311584
+Info 830  [23:27:39.286] getCompletionsAtPosition: isCompletionListBlocker: 0.009700000286102295
+Info 831  [23:27:39.292] getSymbolsFromOtherSourceFileExports: Using cached list
+Info 832  [23:27:39.299] getCompletionData: Semantic work: 12.544900000095367
+Info 833  [23:27:39.318] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 19.21899999678135
+Info 834  [23:27:39.495] getCompletionData: Get current token: 0.008000001311302185
+Info 835  [23:27:39.495] getCompletionData: Is inside comment: 0.02789999544620514
+Info 836  [23:27:39.495] getCompletionData: Get previous token 1: 0.01400001347064972
+Info 837  [23:27:39.495] getCompletionData: Get previous token 2: 0.018099993467330933
+Info 838  [23:27:39.495] getCompletionsAtPosition: isCompletionListBlocker: 0.011600002646446228
+Info 839  [23:27:39.497] getSymbolsFromOtherSourceFileExports: Using cached list
+Info 840  [23:27:39.504] getCompletionData: Semantic work: 8.647599995136261
+Info 841  [23:27:39.695] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 842  [23:27:39.702] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 122 structureChanged: false Elapsed: 6.892900004982948ms
+Info 843  [23:27:39.702] Different program with same set of files:: structureIsReused:: 2
+Info 844  [23:27:39.702] getCompletionData: Get current token: 0.011199995875358582
+Info 845  [23:27:39.702] getCompletionData: Is inside comment: 0.004799991846084595
+Info 846  [23:27:39.702] getCompletionData: Get previous token 1: 0.022499993443489075
+Info 847  [23:27:39.702] getCompletionData: Get previous token 2: 0.019900009036064148
+Info 848  [23:27:39.702] getCompletionsAtPosition: isCompletionListBlocker: 0.00920000672340393
+Info 849  [23:27:39.705] getSymbolsFromOtherSourceFileExports: Recomputing list for details entry
+Info 850  [23:27:39.731] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 851  [23:27:39.739] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 852  [23:27:39.739] forEachExternalModuleToImportFrom autoImportProvider: 7.9505999982357025
+Info 853  [23:27:39.741] getSymbolsFromOtherSourceFileExports: 36.29680000245571
+Info 854  [23:27:39.744] getCompletionData: Semantic work: 42.52409999072552
+Info 855  [23:27:40.449] getCompletionData: Get current token: 0.012900009751319885
+Info 856  [23:27:40.449] getCompletionData: Is inside comment: 0.006400004029273987
+Info 857  [23:27:40.449] getCompletionData: Get previous token 1: 0.017299994826316833
+Info 858  [23:27:40.449] getCompletionData: Get previous token 2: 0.016500011086463928
+Info 859  [23:27:40.449] getCompletionsAtPosition: isCompletionListBlocker: 0.012099996209144592
+Info 860  [23:27:40.451] getSymbolsFromOtherSourceFileExports: Recomputing list for details entry
+Info 861  [23:27:40.457] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 862  [23:27:40.459] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 863  [23:27:40.459] forEachExternalModuleToImportFrom autoImportProvider: 1.279799997806549
+Info 864  [23:27:40.459] getSymbolsFromOtherSourceFileExports: 7.723399996757507
+Info 865  [23:27:40.461] getCompletionData: Semantic work: 12.21340000629425
+Info 866  [23:27:40.468] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 867  [23:27:40.470] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 868  [23:27:40.470] forEachExternalModuleToImportFrom autoImportProvider: 2.3390999883413315
+Info 869  [23:27:40.705] getCompletionData: Get current token: 0.009499996900558472
+Info 870  [23:27:40.705] getCompletionData: Is inside comment: 0.009499996900558472
+Info 871  [23:27:40.705] getCompletionData: Get previous token 1: 0.020500004291534424
+Info 872  [23:27:40.705] getCompletionData: Get previous token 2: 0.017200008034706116
+Info 873  [23:27:40.706] getCompletionsAtPosition: isCompletionListBlocker: 0.03919999301433563
+Info 874  [23:27:40.708] getSymbolsFromOtherSourceFileExports: Recomputing list for details entry
+Info 875  [23:27:40.719] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 876  [23:27:40.723] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 877  [23:27:40.723] forEachExternalModuleToImportFrom autoImportProvider: 4.568599998950958
+Info 878  [23:27:40.724] getSymbolsFromOtherSourceFileExports: 16.15139999985695
+Info 879  [23:27:40.735] getCompletionData: Semantic work: 29.31479999423027
+Info 880  [23:27:41.300] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 881  [23:27:41.307] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 123 structureChanged: false Elapsed: 6.917400002479553ms
+Info 882  [23:27:41.307] Different program with same set of files:: structureIsReused:: 2
+Info 883  [23:27:42.293] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 884  [23:27:42.300] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 124 structureChanged: false Elapsed: 6.787399992346764ms
+Info 885  [23:27:42.300] Different program with same set of files:: structureIsReused:: 2
+Info 886  [23:27:42.300] getCompletionData: Get current token: 0.00449998676776886
+Info 887  [23:27:42.300] getCompletionData: Is inside comment: 0.020500004291534424
+Info 888  [23:27:42.300] getCompletionData: Get previous token 1: 0.052199989557266235
+Info 889  [23:27:42.300] getCompletionData: Get previous token 2: 0.010100007057189941
+Info 890  [23:27:42.301] getCompletionsAtPosition: isCompletionListBlocker: 0.0031000077724456787
+Info 891  [23:27:42.301] getCompletionData: Semantic work: 0.11159999668598175
+Info 892  [23:27:42.302] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.001600012183189392
+Info 893  [23:27:42.320] getCompletionData: Get current token: 0.02120000123977661
+Info 894  [23:27:42.320] getCompletionData: Is inside comment: 0.026700004935264587
+Info 895  [23:27:42.320] getCompletionData: Get previous token 1: 0.01279999315738678
+Info 896  [23:27:42.320] getCompletionData: Get previous token 2: 0.010100007057189941
+Info 897  [23:27:42.320] getCompletionsAtPosition: isCompletionListBlocker: 0.004500001668930054
+Info 898  [23:27:42.320] getCompletionData: Semantic work: 0.033100008964538574
+Info 899  [23:27:43.462] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 900  [23:27:43.473] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 125 structureChanged: false Elapsed: 10.857900008559227ms
+Info 901  [23:27:43.473] Different program with same set of files:: structureIsReused:: 2
+Info 902  [23:27:46.577] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 903  [23:27:46.592] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 126 structureChanged: false Elapsed: 15.178199991583824ms
+Info 904  [23:27:46.593] Different program with same set of files:: structureIsReused:: 2
+Info 905  [23:27:46.593] getCompletionData: Get current token: 0.004399999976158142
+Info 906  [23:27:46.593] getCompletionData: Is inside comment: 0.020799994468688965
+Info 907  [23:27:46.593] getCompletionData: Get previous token 1: 0.015799999237060547
+Info 908  [23:27:46.593] getCompletionData: Get previous token 2: 0.012500002980232239
+Info 909  [23:27:46.593] getCompletionsAtPosition: isCompletionListBlocker: 0.003099992871284485
+Info 910  [23:27:46.593] getCompletionData: Semantic work: 0.03829999268054962
+Info 911  [23:27:46.593] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.0012000054121017456
+Info 912  [23:27:46.983] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 913  [23:27:46.993] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 127 structureChanged: false Elapsed: 9.93970000743866ms
+Info 914  [23:27:46.993] Different program with same set of files:: structureIsReused:: 2
+Info 915  [23:27:47.326] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 916  [23:27:47.337] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 128 structureChanged: false Elapsed: 10.535099998116493ms
+Info 917  [23:27:47.337] Different program with same set of files:: structureIsReused:: 2
+Info 918  [23:27:47.700] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 919  [23:27:47.709] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 129 structureChanged: false Elapsed: 8.473699986934662ms
+Info 920  [23:27:47.709] Different program with same set of files:: structureIsReused:: 2
+Info 921  [23:27:48.310] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 922  [23:27:48.323] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 130 structureChanged: false Elapsed: 12.711600005626678ms
+Info 923  [23:27:48.323] Different program with same set of files:: structureIsReused:: 2
+Info 924  [23:27:48.933] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 925  [23:27:48.940] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 131 structureChanged: false Elapsed: 6.9142999947071075ms
+Info 926  [23:27:48.940] Different program with same set of files:: structureIsReused:: 2
+Info 927  [23:27:49.141] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 928  [23:27:49.151] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 132 structureChanged: false Elapsed: 9.583000004291534ms
+Info 929  [23:27:49.151] Different program with same set of files:: structureIsReused:: 2
+Info 930  [23:27:49.474] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 931  [23:27:49.480] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 133 structureChanged: false Elapsed: 5.8590999990701675ms
+Info 932  [23:27:49.480] Different program with same set of files:: structureIsReused:: 2
+Info 933  [23:27:51.031] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 934  [23:27:51.040] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 134 structureChanged: false Elapsed: 8.45049999654293ms
+Info 935  [23:27:51.040] Different program with same set of files:: structureIsReused:: 2
+Info 936  [23:27:51.661] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 937  [23:27:51.668] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 135 structureChanged: false Elapsed: 6.8853999972343445ms
+Info 938  [23:27:51.668] Different program with same set of files:: structureIsReused:: 2
+Info 939  [23:27:59.009] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 940  [23:27:59.015] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 136 structureChanged: false Elapsed: 6.197300001978874ms
+Info 941  [23:27:59.015] Different program with same set of files:: structureIsReused:: 2
+Info 942  [23:27:59.015] getCompletionData: Get current token: 0.003600001335144043
+Info 943  [23:27:59.015] getCompletionData: Is inside comment: 0.0445999950170517
+Info 944  [23:27:59.015] getCompletionData: Get previous token 1: 0.009900003671646118
+Info 945  [23:27:59.015] getCompletionData: Get previous token 2: 0.02290000021457672
+Info 946  [23:27:59.015] getCompletionsAtPosition: isCompletionListBlocker: 0.008699998259544373
+Info 947  [23:27:59.015] getCompletionData: Semantic work: 0.02799999713897705
+Info 948  [23:27:59.015] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.0007999986410140991
+Info 949  [23:27:59.035] getCompletionData: Get current token: 0.008100003004074097
+Info 950  [23:27:59.035] getCompletionData: Is inside comment: 0.027300000190734863
+Info 951  [23:27:59.035] getCompletionData: Get previous token 1: 0.013199999928474426
+Info 952  [23:27:59.035] getCompletionData: Get previous token 2: 0.017499998211860657
+Info 953  [23:27:59.035] getCompletionsAtPosition: isCompletionListBlocker: 0.011600002646446228
+Info 954  [23:27:59.036] getCompletionData: Semantic work: 0.033699989318847656
+Info 955  [23:27:59.747] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 956  [23:27:59.753] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 137 structureChanged: false Elapsed: 6.1482000052928925ms
+Info 957  [23:27:59.753] Different program with same set of files:: structureIsReused:: 2
+Info 958  [23:28:00.406] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 959  [23:28:00.414] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 138 structureChanged: false Elapsed: 8.546200007200241ms
+Info 960  [23:28:00.414] Different program with same set of files:: structureIsReused:: 2
+Info 961  [23:28:00.415] getCompletionData: Get current token: 0.004199996590614319
+Info 962  [23:28:00.415] getCompletionData: Is inside comment: 0.0023999959230422974
+Info 963  [23:28:00.415] getCompletionData: Get previous token 1: 0.017900004982948303
+Info 964  [23:28:00.415] getCompletionsAtPosition: isCompletionListBlocker: 0.04970000684261322
+Info 965  [23:28:00.415] getCompletionData: Semantic work: 0.027300000190734863
+Info 966  [23:28:00.415] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.0013000071048736572
+Info 967  [23:28:00.435] getCompletionData: Get current token: 0.008699998259544373
+Info 968  [23:28:00.435] getCompletionData: Is inside comment: 0.006099998950958252
+Info 969  [23:28:00.435] getCompletionData: Get previous token 1: 0.019600003957748413
+Info 970  [23:28:00.435] getCompletionsAtPosition: isCompletionListBlocker: 0.00660000741481781
+Info 971  [23:28:00.435] getCompletionData: Semantic work: 0.013199999928474426
+Info 972  [23:28:02.158] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 973  [23:28:02.165] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 139 structureChanged: false Elapsed: 6.7487000077962875ms
+Info 974  [23:28:02.165] Different program with same set of files:: structureIsReused:: 2
+Info 975  [23:28:02.385] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 976  [23:28:02.413] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 140 structureChanged: false Elapsed: 27.412499994039536ms
+Info 977  [23:28:02.413] Different program with same set of files:: structureIsReused:: 2
+Info 978  [23:28:03.566] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 979  [23:28:03.573] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 141 structureChanged: false Elapsed: 6.969699993729591ms
+Info 980  [23:28:03.573] Different program with same set of files:: structureIsReused:: 2
+Info 981  [23:28:04.966] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 982  [23:28:04.979] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 142 structureChanged: false Elapsed: 12.892199993133545ms
+Info 983  [23:28:04.979] Different program with same set of files:: structureIsReused:: 2
+Info 984  [23:28:04.979] getCompletionData: Get current token: 0.004399999976158142
+Info 985  [23:28:04.979] getCompletionData: Is inside comment: 0.0203000009059906
+Info 986  [23:28:04.979] getCompletionData: Get previous token 1: 0.012899994850158691
+Info 987  [23:28:04.979] getCompletionData: Get previous token 2: 0.09490001201629639
+Info 988  [23:28:04.979] getCompletionsAtPosition: isCompletionListBlocker: 0.010300010442733765
+Info 989  [23:28:04.979] getCompletionData: Semantic work: 0.27400000393390656
+Info 990  [23:28:04.980] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.001900002360343933
+Info 991  [23:28:05.000] getCompletionData: Get current token: 0.020600005984306335
+Info 992  [23:28:05.000] getCompletionData: Is inside comment: 0.059699997305870056
+Info 993  [23:28:05.000] getCompletionData: Get previous token 1: 0.03270000219345093
+Info 994  [23:28:05.000] getCompletionData: Get previous token 2: 0.01660001277923584
+Info 995  [23:28:05.000] getCompletionsAtPosition: isCompletionListBlocker: 0.013600006699562073
+Info 996  [23:28:05.000] getCompletionData: Semantic work: 0.14229999482631683
+Info 997  [23:28:05.245] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 998  [23:28:05.253] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 143 structureChanged: false Elapsed: 7.5658000111579895ms
+Info 999  [23:28:05.253] Different program with same set of files:: structureIsReused:: 2
+Info 1000 [23:28:06.011] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1001 [23:28:06.020] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 144 structureChanged: false Elapsed: 9.019299998879433ms
+Info 1002 [23:28:06.020] Different program with same set of files:: structureIsReused:: 2
+Info 1003 [23:28:06.678] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1004 [23:28:06.686] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 145 structureChanged: false Elapsed: 8.011499986052513ms
+Info 1005 [23:28:06.686] Different program with same set of files:: structureIsReused:: 2
+Info 1006 [23:28:07.535] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1007 [23:28:07.542] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 146 structureChanged: false Elapsed: 6.811700001358986ms
+Info 1008 [23:28:07.542] Different program with same set of files:: structureIsReused:: 2
+Info 1009 [23:28:09.990] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1010 [23:28:09.996] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 147 structureChanged: false Elapsed: 5.892499998211861ms
+Info 1011 [23:28:09.996] Different program with same set of files:: structureIsReused:: 2
+Info 1012 [23:28:10.208] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1013 [23:28:10.214] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 148 structureChanged: false Elapsed: 5.900700002908707ms
+Info 1014 [23:28:10.214] Different program with same set of files:: structureIsReused:: 2
+Info 1015 [23:28:10.661] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1016 [23:28:10.667] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 149 structureChanged: false Elapsed: 6.334799990057945ms
+Info 1017 [23:28:10.667] Different program with same set of files:: structureIsReused:: 2
+Info 1018 [23:28:11.259] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1019 [23:28:11.265] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 150 structureChanged: false Elapsed: 5.879699990153313ms
+Info 1020 [23:28:11.265] Different program with same set of files:: structureIsReused:: 2
+Info 1021 [23:28:11.265] getCompletionData: Get current token: 0.004399999976158142
+Info 1022 [23:28:11.265] getCompletionData: Is inside comment: 0.002800002694129944
+Info 1023 [23:28:11.265] getCompletionData: Get previous token 1: 0.01830001175403595
+Info 1024 [23:28:11.266] getCompletionsAtPosition: isCompletionListBlocker: 0.0033999979496002197
+Info 1025 [23:28:11.266] Returning an empty list because completion was requested in an invalid position.
+Info 1026 [23:28:12.375] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1027 [23:28:12.382] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 151 structureChanged: false Elapsed: 6.8348000049591064ms
+Info 1028 [23:28:12.382] Different program with same set of files:: structureIsReused:: 2
+Info 1029 [23:28:12.790] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1030 [23:28:12.797] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 152 structureChanged: false Elapsed: 6.196299999952316ms
+Info 1031 [23:28:12.797] Different program with same set of files:: structureIsReused:: 2
+Info 1032 [23:28:15.117] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1033 [23:28:15.124] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 153 structureChanged: false Elapsed: 7.141999989748001ms
+Info 1034 [23:28:15.124] Different program with same set of files:: structureIsReused:: 2
+Info 1035 [23:28:17.260] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1036 [23:28:17.270] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 154 structureChanged: false Elapsed: 10.102200001478195ms
+Info 1037 [23:28:17.270] Different program with same set of files:: structureIsReused:: 2
+Info 1038 [23:28:17.270] getCompletionData: Get current token: 0.0029000043869018555
+Info 1039 [23:28:17.270] getCompletionData: Is inside comment: 0.0037999898195266724
+Info 1040 [23:28:17.270] getCompletionData: Get previous token 1: 0.016699999570846558
+Info 1041 [23:28:17.270] getCompletionData: Get previous token 2: 0.036799997091293335
+Info 1042 [23:28:17.270] getCompletionsAtPosition: isCompletionListBlocker: 0.009900003671646118
+Info 1043 [23:28:17.277] getSymbolsFromOtherSourceFileExports: Using cached list
+Info 1044 [23:28:17.283] getCompletionData: Semantic work: 12.48080000281334
+Info 1045 [23:28:17.290] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 6.982300013303757
+Info 1046 [23:28:17.358] getCompletionData: Get current token: 0.008199989795684814
+Info 1047 [23:28:17.358] getCompletionData: Is inside comment: 0.008200004696846008
+Info 1048 [23:28:17.358] getCompletionData: Get previous token 1: 0.014299988746643066
+Info 1049 [23:28:17.358] getCompletionData: Get previous token 2: 0.015799999237060547
+Info 1050 [23:28:17.359] getCompletionsAtPosition: isCompletionListBlocker: 0.012500002980232239
+Info 1051 [23:28:17.361] getSymbolsFromOtherSourceFileExports: Using cached list
+Info 1052 [23:28:17.374] getCompletionData: Semantic work: 15.153499990701675
+Info 1053 [23:28:17.511] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1054 [23:28:17.517] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 155 structureChanged: false Elapsed: 5.996999993920326ms
+Info 1055 [23:28:17.517] Different program with same set of files:: structureIsReused:: 2
+Info 1056 [23:28:17.517] getCompletionData: Get current token: 0.008399993181228638
+Info 1057 [23:28:17.517] getCompletionData: Is inside comment: 0.004800006747245789
+Info 1058 [23:28:17.517] getCompletionData: Get previous token 1: 0.012500002980232239
+Info 1059 [23:28:17.517] getCompletionData: Get previous token 2: 0.0356999933719635
+Info 1060 [23:28:17.517] getCompletionsAtPosition: isCompletionListBlocker: 0.009099990129470825
+Info 1061 [23:28:17.519] getSymbolsFromOtherSourceFileExports: Recomputing list for details entry
+Info 1062 [23:28:17.549] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 1063 [23:28:17.555] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 1064 [23:28:17.555] forEachExternalModuleToImportFrom autoImportProvider: 5.606199994683266
+Info 1065 [23:28:17.557] getSymbolsFromOtherSourceFileExports: 37.62830001115799
+Info 1066 [23:28:17.568] getCompletionData: Semantic work: 50.47879999876022
+Info 1067 [23:28:17.655] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1068 [23:28:17.662] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 156 structureChanged: false Elapsed: 6.325099989771843ms
+Info 1069 [23:28:17.662] Different program with same set of files:: structureIsReused:: 2
+Info 1070 [23:28:17.662] getCompletionData: Get current token: 0.007599994540214539
+Info 1071 [23:28:17.662] getCompletionData: Is inside comment: 0.0049000084400177
+Info 1072 [23:28:17.662] getCompletionData: Get previous token 1: 0.014400005340576172
+Info 1073 [23:28:17.662] getCompletionData: Get previous token 2: 0.03350000083446503
+Info 1074 [23:28:17.662] getCompletionsAtPosition: isCompletionListBlocker: 0.008799999952316284
+Info 1075 [23:28:17.664] getSymbolsFromOtherSourceFileExports: Recomputing list for details entry
+Info 1076 [23:28:17.682] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 1077 [23:28:17.687] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 1078 [23:28:17.687] forEachExternalModuleToImportFrom autoImportProvider: 4.762500002980232
+Info 1079 [23:28:17.688] getSymbolsFromOtherSourceFileExports: 23.205900013446808
+Info 1080 [23:28:17.690] getCompletionData: Semantic work: 27.90650001168251
+Info 1081 [23:28:17.773] forEachExternalModuleToImportFrom: filtered out 26 modules by package.json contents
+Info 1082 [23:28:17.779] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 1083 [23:28:17.779] forEachExternalModuleToImportFrom autoImportProvider: 5.764499992132187
+Info 1084 [23:28:18.520] getCompletionData: Get current token: 0.007199987769126892
+Info 1085 [23:28:18.520] getCompletionData: Is inside comment: 0.0067999958992004395
+Info 1086 [23:28:18.520] getCompletionData: Get previous token 1: 0.012800008058547974
+Info 1087 [23:28:18.520] getCompletionData: Get previous token 2: 0.017399996519088745
+Info 1088 [23:28:18.520] getCompletionsAtPosition: isCompletionListBlocker: 0.012199997901916504
+Info 1089 [23:28:18.522] getSymbolsFromOtherSourceFileExports: Recomputing list for details entry
+Info 1090 [23:28:18.528] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 1091 [23:28:18.532] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 1092 [23:28:18.532] forEachExternalModuleToImportFrom autoImportProvider: 3.815999999642372
+Info 1093 [23:28:18.532] getSymbolsFromOtherSourceFileExports: 10.81190000474453
+Info 1094 [23:28:18.534] getCompletionData: Semantic work: 14.35189999639988
+Info 1095 [23:28:18.635] forEachExternalModuleToImportFrom: filtered out 26 modules by package.json contents
+Info 1096 [23:28:18.638] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 1097 [23:28:18.638] forEachExternalModuleToImportFrom autoImportProvider: 3.288200005888939
+Info 1098 [23:28:19.035] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1099 [23:28:19.043] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 157 structureChanged: false Elapsed: 8.361100003123283ms
+Info 1100 [23:28:19.044] Different program with same set of files:: structureIsReused:: 2
+Info 1101 [23:28:19.069] forEachExternalModuleToImportFrom: filtered out 26 modules by package.json contents
+Info 1102 [23:28:19.072] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 1103 [23:28:19.073] forEachExternalModuleToImportFrom autoImportProvider: 3.2521000057458878
+Info 1104 [23:28:19.527] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1105 [23:28:19.534] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 158 structureChanged: false Elapsed: 6.800399988889694ms
+Info 1106 [23:28:19.534] Different program with same set of files:: structureIsReused:: 2
+Info 1107 [23:28:22.130] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1108 [23:28:22.141] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 159 structureChanged: false Elapsed: 10.097800001502037ms
+Info 1109 [23:28:22.141] Different program with same set of files:: structureIsReused:: 2
+Info 1110 [23:28:23.466] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1111 [23:28:23.475] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 160 structureChanged: false Elapsed: 8.8733000010252ms
+Info 1112 [23:28:23.475] Different program with same set of files:: structureIsReused:: 2
+Info 1113 [23:28:25.952] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1114 [23:28:25.959] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 161 structureChanged: false Elapsed: 7.089100003242493ms
+Info 1115 [23:28:25.959] Different program with same set of files:: structureIsReused:: 2
+Info 1116 [23:28:26.667] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1117 [23:28:26.674] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 162 structureChanged: false Elapsed: 7.013700008392334ms
+Info 1118 [23:28:26.674] Different program with same set of files:: structureIsReused:: 2
+Info 1119 [23:28:28.560] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1120 [23:28:28.567] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 163 structureChanged: false Elapsed: 6.56360000371933ms
+Info 1121 [23:28:28.567] Different program with same set of files:: structureIsReused:: 2
+Info 1122 [23:28:30.755] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1123 [23:28:30.764] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 164 structureChanged: false Elapsed: 9.145400002598763ms
+Info 1124 [23:28:30.764] Different program with same set of files:: structureIsReused:: 2
+Info 1125 [23:28:31.556] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1126 [23:28:31.563] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 165 structureChanged: false Elapsed: 6.540399998426437ms
+Info 1127 [23:28:31.563] Different program with same set of files:: structureIsReused:: 2
+Info 1128 [23:28:32.436] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1129 [23:28:32.442] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 166 structureChanged: false Elapsed: 5.873000010848045ms
+Info 1130 [23:28:32.442] Different program with same set of files:: structureIsReused:: 2
+Info 1131 [23:28:32.890] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1132 [23:28:32.896] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 167 structureChanged: false Elapsed: 6.217899993062019ms
+Info 1133 [23:28:32.896] Different program with same set of files:: structureIsReused:: 2
+Info 1134 [23:28:35.870] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1135 [23:28:35.876] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 168 structureChanged: false Elapsed: 5.681000009179115ms
+Info 1136 [23:28:35.876] Different program with same set of files:: structureIsReused:: 2
+Info 1137 [23:28:35.876] getCompletionData: Get current token: 0.003299996256828308
+Info 1138 [23:28:35.876] getCompletionData: Is inside comment: 0.08790001273155212
+Info 1139 [23:28:35.877] getCompletionData: Get previous token 1: 0.032200008630752563
+Info 1140 [23:28:35.877] getCompletionData: Get previous token 2: 0.05169999599456787
+Info 1141 [23:28:35.877] getCompletionsAtPosition: isCompletionListBlocker: 0.008900001645088196
+Info 1142 [23:28:35.877] getCompletionData: Semantic work: 0.19290000200271606
+Info 1143 [23:28:35.877] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.001399993896484375
+Info 1144 [23:28:36.601] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1145 [23:28:36.607] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 169 structureChanged: false Elapsed: 5.849800005555153ms
+Info 1146 [23:28:36.607] Different program with same set of files:: structureIsReused:: 2
+Info 1147 [23:28:36.859] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1148 [23:28:36.866] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 170 structureChanged: false Elapsed: 6.075899988412857ms
+Info 1149 [23:28:36.866] Different program with same set of files:: structureIsReused:: 2
+Info 1150 [23:28:37.726] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1151 [23:28:37.732] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 171 structureChanged: false Elapsed: 5.984400004148483ms
+Info 1152 [23:28:37.733] Different program with same set of files:: structureIsReused:: 2
+Info 1153 [23:28:38.084] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1154 [23:28:38.090] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 172 structureChanged: false Elapsed: 6.312600001692772ms
+Info 1155 [23:28:38.090] Different program with same set of files:: structureIsReused:: 2
+Info 1156 [23:28:38.860] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1157 [23:28:38.866] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 173 structureChanged: false Elapsed: 5.7304999977350235ms
+Info 1158 [23:28:38.866] Different program with same set of files:: structureIsReused:: 2
+Info 1159 [23:28:38.866] getCompletionData: Get current token: 0.0049000084400177
+Info 1160 [23:28:38.866] getCompletionData: Is inside comment: 0.0034999996423721313
+Info 1161 [23:28:38.866] getCompletionData: Get previous token 1: 0.023800000548362732
+Info 1162 [23:28:38.866] getCompletionsAtPosition: isCompletionListBlocker: 0.0033999979496002197
+Info 1163 [23:28:38.866] Returning an empty list because completion was requested in an invalid position.
+Info 1164 [23:28:39.864] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1165 [23:28:39.871] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 174 structureChanged: false Elapsed: 6.234499990940094ms
+Info 1166 [23:28:39.871] Different program with same set of files:: structureIsReused:: 2
+Info 1167 [23:28:40.267] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1168 [23:28:40.274] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 175 structureChanged: false Elapsed: 6.621199995279312ms
+Info 1169 [23:28:40.274] Different program with same set of files:: structureIsReused:: 2
+Info 1170 [23:28:40.702] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1171 [23:28:40.708] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 176 structureChanged: false Elapsed: 5.942499995231628ms
+Info 1172 [23:28:40.708] Different program with same set of files:: structureIsReused:: 2
+Info 1173 [23:28:40.709] getCompletionData: Get current token: 0.004999995231628418
+Info 1174 [23:28:40.709] getCompletionData: Is inside comment: 0.2741999924182892
+Info 1175 [23:28:40.709] getCompletionData: Get previous token 1: 0.09160000085830688
+Info 1176 [23:28:40.709] getCompletionData: Get previous token 2: 0.02420000731945038
+Info 1177 [23:28:40.709] getCompletionsAtPosition: isCompletionListBlocker: 0.004300013184547424
+Info 1178 [23:28:40.715] getSymbolsFromOtherSourceFileExports: Using cached list
+Info 1179 [23:28:40.721] getCompletionData: Semantic work: 11.75730000436306
+Info 1180 [23:28:40.755] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 33.748699992895126
+Info 1181 [23:28:41.101] getCompletionData: Get current token: 0.01019999384880066
+Info 1182 [23:28:41.101] getCompletionData: Is inside comment: 0.038200005888938904
+Info 1183 [23:28:41.103] getCompletionData: Get previous token 1: 0.0625
+Info 1184 [23:28:41.103] getCompletionData: Get previous token 2: 0.032600000500679016
+Info 1185 [23:28:41.104] getCompletionsAtPosition: isCompletionListBlocker: 0.007100000977516174
+Info 1186 [23:28:41.106] getSymbolsFromOtherSourceFileExports: Using cached list
+Info 1187 [23:28:41.108] getCompletionData: Semantic work: 4.841600000858307
+Info 1188 [23:28:41.124] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 1189 [23:28:41.127] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 1190 [23:28:41.127] forEachExternalModuleToImportFrom autoImportProvider: 2.1590999960899353
+Info 1191 [23:28:41.605] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1192 [23:28:41.612] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 177 structureChanged: false Elapsed: 7.4786999970674515ms
+Info 1193 [23:28:41.612] Different program with same set of files:: structureIsReused:: 2
+Info 1194 [23:28:41.613] getCompletionData: Get current token: 0.017100006341934204
+Info 1195 [23:28:41.613] getCompletionData: Is inside comment: 0.0073000043630599976
+Info 1196 [23:28:41.613] getCompletionData: Get previous token 1: 0.02770000696182251
+Info 1197 [23:28:41.613] getCompletionData: Get previous token 2: 0.021300002932548523
+Info 1198 [23:28:41.613] getCompletionsAtPosition: isCompletionListBlocker: 0.003299996256828308
+Info 1199 [23:28:41.615] getSymbolsFromOtherSourceFileExports: Recomputing list for details entry
+Info 1200 [23:28:41.637] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 1201 [23:28:41.641] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 1202 [23:28:41.641] forEachExternalModuleToImportFrom autoImportProvider: 4.613499999046326
+Info 1203 [23:28:41.643] getSymbolsFromOtherSourceFileExports: 27.22230000793934
+Info 1204 [23:28:41.648] getCompletionData: Semantic work: 34.76009999215603
+Info 1205 [23:28:42.500] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1206 [23:28:42.506] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 178 structureChanged: false Elapsed: 5.918099999427795ms
+Info 1207 [23:28:42.506] Different program with same set of files:: structureIsReused:: 2
+Info 1208 [23:28:42.968] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1209 [23:28:42.976] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 179 structureChanged: false Elapsed: 7.468799993395805ms
+Info 1210 [23:28:42.976] Different program with same set of files:: structureIsReused:: 2
+Info 1211 [23:28:43.521] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1212 [23:28:43.527] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 180 structureChanged: false Elapsed: 5.766000002622604ms
+Info 1213 [23:28:43.527] Different program with same set of files:: structureIsReused:: 2
+Info 1214 [23:28:43.881] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1215 [23:28:43.889] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 181 structureChanged: false Elapsed: 7.4091000109910965ms
+Info 1216 [23:28:43.889] Different program with same set of files:: structureIsReused:: 2
+Info 1217 [23:28:43.889] getCompletionData: Get current token: 0.004999995231628418
+Info 1218 [23:28:43.890] getCompletionData: Is inside comment: 0.02860000729560852
+Info 1219 [23:28:43.890] getCompletionData: Get previous token 1: 0.020099997520446777
+Info 1220 [23:28:43.890] getCompletionsAtPosition: isCompletionListBlocker: 0.004199996590614319
+Info 1221 [23:28:43.891] getCompletionData: Semantic work: 1.0039999932050705
+Info 1222 [23:28:43.899] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.2647000104188919
+Info 1223 [23:28:43.919] getCompletionData: Get current token: 0.0268000066280365
+Info 1224 [23:28:43.920] getCompletionData: Is inside comment: 0.07439999282360077
+Info 1225 [23:28:43.920] getCompletionData: Get previous token 1: 0.04989999532699585
+Info 1226 [23:28:43.920] getCompletionsAtPosition: isCompletionListBlocker: 0.02219998836517334
+Info 1227 [23:28:43.920] getCompletionData: Semantic work: 0.1370999962091446
+Info 1228 [23:28:44.930] getCompletionData: Get current token: 0.009499996900558472
+Info 1229 [23:28:44.930] getCompletionData: Is inside comment: 0.03579999506473541
+Info 1230 [23:28:44.930] getCompletionData: Get previous token 1: 0.021300002932548523
+Info 1231 [23:28:44.930] getCompletionsAtPosition: isCompletionListBlocker: 0.003600001335144043
+Info 1232 [23:28:44.931] getCompletionData: Semantic work: 0.13509999215602875
+Info 1233 [23:28:45.675] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1234 [23:28:45.683] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 182 structureChanged: false Elapsed: 8.418200001120567ms
+Info 1235 [23:28:45.684] Different program with same set of files:: structureIsReused:: 2
+Info 1236 [23:28:46.777] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1237 [23:28:46.785] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 183 structureChanged: false Elapsed: 8.421000003814697ms
+Info 1238 [23:28:46.785] Different program with same set of files:: structureIsReused:: 2
+Info 1239 [23:28:46.785] getCompletionData: Get current token: 0.006900012493133545
+Info 1240 [23:28:46.785] getCompletionData: Is inside comment: 0.004399999976158142
+Info 1241 [23:28:46.785] getCompletionData: Get previous token 1: 0.05719999969005585
+Info 1242 [23:28:46.786] getCompletionsAtPosition: isCompletionListBlocker: 0.004500001668930054
+Info 1243 [23:28:46.791] getSymbolsFromOtherSourceFileExports: Using cached list
+Info 1244 [23:28:46.797] getCompletionData: Semantic work: 11.840300008654594
+Info 1245 [23:28:46.829] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 28.993100002408028
+Info 1246 [23:28:47.098] getCompletionData: Get current token: 0.011799991130828857
+Info 1247 [23:28:47.098] getCompletionData: Is inside comment: 0.008599996566772461
+Info 1248 [23:28:47.098] getCompletionData: Get previous token 1: 0.031700000166893005
+Info 1249 [23:28:47.099] getCompletionsAtPosition: isCompletionListBlocker: 0.004399999976158142
+Info 1250 [23:28:47.102] getSymbolsFromOtherSourceFileExports: Using cached list
+Info 1251 [23:28:47.104] getCompletionData: Semantic work: 4.9598000049591064
+Info 1252 [23:28:47.858] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1253 [23:28:47.867] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 184 structureChanged: false Elapsed: 8.038900002837181ms
+Info 1254 [23:28:47.867] Different program with same set of files:: structureIsReused:: 2
+Info 1255 [23:28:50.298] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1256 [23:28:50.307] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 185 structureChanged: false Elapsed: 9.03769999742508ms
+Info 1257 [23:28:50.308] Different program with same set of files:: structureIsReused:: 2
+Info 1258 [23:30:26.066] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1259 [23:30:26.072] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 186 structureChanged: false Elapsed: 6.052000001072884ms
+Info 1260 [23:30:26.072] Different program with same set of files:: structureIsReused:: 2
+Info 1261 [23:30:26.921] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1262 [23:30:26.927] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 187 structureChanged: false Elapsed: 6.060599997639656ms
+Info 1263 [23:30:26.927] Different program with same set of files:: structureIsReused:: 2
+Info 1264 [23:30:27.212] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1265 [23:30:27.227] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 188 structureChanged: false Elapsed: 14.242300003767014ms
+Info 1266 [23:30:27.227] Different program with same set of files:: structureIsReused:: 2
+Info 1267 [23:30:30.503] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1268 [23:30:30.514] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 189 structureChanged: false Elapsed: 10.633900001645088ms
+Info 1269 [23:30:30.514] Different program with same set of files:: structureIsReused:: 2
+Info 1270 [23:30:30.832] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1271 [23:30:30.841] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 190 structureChanged: false Elapsed: 9.684799998998642ms
+Info 1272 [23:30:30.841] Different program with same set of files:: structureIsReused:: 2
+Info 1273 [23:30:32.449] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1274 [23:30:32.458] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 191 structureChanged: false Elapsed: 8.347900003194809ms
+Info 1275 [23:30:32.458] Different program with same set of files:: structureIsReused:: 2
+Info 1276 [23:32:13.679] DirectoryWatcher:: Triggered with /home/aaron-gonzales/development/personal/angular/minimal-proj/.git :: WatchInfo: /home/aaron-gonzales/development/personal/angular/minimal-proj 0 undefined Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json WatchType: Failed Lookup Locations
+Info 1277 [23:32:13.679] Elapsed:: 0.43379999697208405ms DirectoryWatcher:: Triggered with /home/aaron-gonzales/development/personal/angular/minimal-proj/.git :: WatchInfo: /home/aaron-gonzales/development/personal/angular/minimal-proj 0 undefined Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json WatchType: Failed Lookup Locations
+Info 1278 [23:32:13.680] DirectoryWatcher:: Triggered with /home/aaron-gonzales/development/personal/angular/minimal-proj/.git :: WatchInfo: /home/aaron-gonzales/development/personal/angular/minimal-proj 0 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 1279 [23:32:13.680] Elapsed:: 0.009599998593330383ms DirectoryWatcher:: Triggered with /home/aaron-gonzales/development/personal/angular/minimal-proj/.git :: WatchInfo: /home/aaron-gonzales/development/personal/angular/minimal-proj 0 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 1280 [23:32:31.135] FileWatcher:: Triggered with /home/aaron-gonzales/development/personal/angular/minimal-proj/package.json 1:: WatchInfo: /home/aaron-gonzales/development/personal/angular/minimal-proj/package.json 250 undefined Project:  WatchType: package.json file for import suggestions
+Info 1281 [23:32:31.136] Elapsed:: 1.1766999959945679ms FileWatcher:: Triggered with /home/aaron-gonzales/development/personal/angular/minimal-proj/package.json 1:: WatchInfo: /home/aaron-gonzales/development/personal/angular/minimal-proj/package.json 250 undefined Project:  WatchType: package.json file for import suggestions
+Info 1282 [23:32:41.138] FileWatcher:: Triggered with /home/aaron-gonzales/development/personal/angular/minimal-proj/package.json 1:: WatchInfo: /home/aaron-gonzales/development/personal/angular/minimal-proj/package.json 250 undefined Project:  WatchType: package.json file for import suggestions
+Info 1283 [23:32:41.139] Elapsed:: 0.26099999248981476ms FileWatcher:: Triggered with /home/aaron-gonzales/development/personal/angular/minimal-proj/package.json 1:: WatchInfo: /home/aaron-gonzales/development/personal/angular/minimal-proj/package.json 250 undefined Project:  WatchType: package.json file for import suggestions
+Info 1284 [23:32:51.142] FileWatcher:: Triggered with /home/aaron-gonzales/development/personal/angular/minimal-proj/package.json 1:: WatchInfo: /home/aaron-gonzales/development/personal/angular/minimal-proj/package.json 250 undefined Project:  WatchType: package.json file for import suggestions
+Info 1285 [23:32:51.142] Elapsed:: 0.22089999914169312ms FileWatcher:: Triggered with /home/aaron-gonzales/development/personal/angular/minimal-proj/package.json 1:: WatchInfo: /home/aaron-gonzales/development/personal/angular/minimal-proj/package.json 250 undefined Project:  WatchType: package.json file for import suggestions
+Info 1286 [23:33:12.805] Starting updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json
+Info 1287 [23:33:12.815] Finishing updateGraphWorker: Project: /home/aaron-gonzales/development/personal/angular/minimal-proj/tsconfig.json Version: 192 structureChanged: false Elapsed: 9.844700008630753ms
+Info 1288 [23:33:12.815] Different program with same set of files:: structureIsReused:: 2

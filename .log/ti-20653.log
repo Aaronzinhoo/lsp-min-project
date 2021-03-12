@@ -1,0 +1,18 @@
+[23:20:40.328] Global cache location '/home/aaron-gonzales/.config/cache/typescript/4.1', safe file path '/home/aaron-gonzales/development/personal/angular/minimal-proj/node_modules/typescript/lib/typingSafeList.json', types map path /home/aaron-gonzales/development/personal/angular/minimal-proj/node_modules/typescript/lib/typesMap.json
+[23:20:40.328] Processing cache location '/home/aaron-gonzales/.config/cache/typescript/4.1'
+[23:20:40.328] Trying to find '/home/aaron-gonzales/.config/cache/typescript/4.1/package.json'...
+[23:20:40.328] Finished processing cache location '/home/aaron-gonzales/.config/cache/typescript/4.1'
+[23:20:40.329] Process id: 20660
+[23:20:40.329] NPM location: /home/aaron-gonzales/.config/nvm/versions/node/v14.15.4/bin/npm (explicit '--npmLocation' not  provided)
+[23:20:40.329] validateDefaultNpmLocation: false
+[23:20:40.329] Npm config file: /home/aaron-gonzales/.config/cache/typescript/4.1/package.json
+[23:20:40.329] Npm config file: '/home/aaron-gonzales/.config/cache/typescript/4.1/package.json' is missing, creating new one...
+[23:20:40.330] Updating types-registry npm package...
+[23:20:40.330] Exec: /home/aaron-gonzales/.config/nvm/versions/node/v14.15.4/bin/npm install --ignore-scripts types-registry@latest
+[23:20:41.043]     Succeeded. stdout:
+    
+    added 1 package, and audited 2 packages in 624ms
+
+found 0 vulnerabilities
+
+[23:20:41.043] Updated types-registry npm package
